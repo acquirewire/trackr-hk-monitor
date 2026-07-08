@@ -1,0 +1,10 @@
+{
+  "apiBase": "https://api.the-trackr.com",
+  "trackrUrl": "https://app.the-trackr.com/hong-kong-finance/summer-internships",
+  "region": "Hong Kong",
+  "industry": "Finance",
+  "season": "2027",
+  "type": "summer-internships",
+  "ntfyServer": "https://ntfy.sh",
+  "ntfyTopic": "REPLACE_WITH_YOUR_TOPIC"
+}

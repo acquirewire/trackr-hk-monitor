@@ -1,0 +1,36 @@
+name: trackr-monitor
+
+on:
+  schedule:
+    # every 15 minutes (GitHub may delay scheduled runs during peak load)
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}   # allow manual "Run workflow" from the Actions tab
+
+permissions:
+  contents: write         # needed to commit updated state back to the repo
+
+concurrency:
+  group: trackr-monitor
+  cancel-in-progress: false
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Check Trackr for new openings
+        shell: pwsh
+        env:
+          NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
+          NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
+        run: ./trackr-monitor.ps1 -Verbose
+
+      - name: Persist state
+        run: |
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > last-run.txt
+          git config user.name "trackr-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add state.json last-run.txt
+          git commit -m "state update [skip ci]" || echo "nothing to commit"
+          git push
