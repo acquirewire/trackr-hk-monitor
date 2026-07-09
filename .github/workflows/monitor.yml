@@ -24,7 +24,7 @@ jobs:
         env:
           NTFY_SERVER: ${{ secrets.NTFY_SERVER }}
           NTFY_TOPIC: ${{ secrets.NTFY_TOPIC }}
-        run: ./trackr-monitor.ps1 -Verbose
+        run: ./trackr-monitor.ps1
 
       - name: Persist state
         run: |
