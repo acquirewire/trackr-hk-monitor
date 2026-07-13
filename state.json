@@ -12,6 +12,12 @@
     "name": "Summer Internship - Finance"
   },
   {
+    "id": "6zv33ddm38",
+    "status": "open",
+    "company": "DRW",
+    "name": "Quantitative Trading Analyst Intern"
+  },
+  {
     "id": "7bl7pbk19i",
     "status": "not-open",
     "company": "Smith",
@@ -190,6 +196,12 @@
     "status": "not-open",
     "company": "Macquarie Group",
     "name": "2027 Summer Internship"
+  },
+  {
+    "id": "k9kzhtt3xb",
+    "status": "open",
+    "company": "Hudson River Trading",
+    "name": "Algorithm Developer (Quant Researcher) - 2027 Grads"
   },
   {
     "id": "ko12p6ee5f",
