@@ -1,10 +1,27 @@
 {
   "apiBase": "https://api.the-trackr.com",
-  "trackrUrl": "https://app.the-trackr.com/hong-kong-finance/summer-internships",
-  "region": "Hong Kong",
-  "industry": "Finance",
-  "season": "2027",
-  "type": "summer-internships",
-  "ntfyServer": "https://ntfy.sh",
-  "ntfyTopic": "REPLACE_WITH_YOUR_TOPIC"
+  "trackers": [
+    {
+      "name": "hong-kong-finance",
+      "label": "Hong Kong Finance, Summer Internships",
+      "trackrUrl": "https://app.the-trackr.com/hong-kong-finance/summer-internships",
+      "region": "Hong Kong",
+      "industry": "Finance",
+      "season": "2027",
+      "type": "summer-internships",
+      "ntfyServer": "https://ntfy.sh",
+      "ntfyTopicEnv": "NTFY_TOPIC"
+    },
+    {
+      "name": "uk-finance",
+      "label": "UK Finance, Summer Internships",
+      "trackrUrl": "https://app.the-trackr.com/uk-finance/summer-internships",
+      "region": "UK",
+      "industry": "Finance",
+      "season": "2027",
+      "type": "summer-internships",
+      "ntfyServer": "https://ntfy.sh",
+      "ntfyTopicEnv": "NTFY_TOPIC_UK"
+    }
+  ]
 }
