@@ -6,6 +6,12 @@
     "name": "Summer Analyst Training Programme"
   },
   {
+    "id": "8q64c5c67r",
+    "status": "open",
+    "company": "LionTree",
+    "name": "2027 Summer Internship Programme"
+  },
+  {
     "id": "a1g6tsa2mi",
     "status": "not-open",
     "company": "Northern Trust",
@@ -141,7 +147,7 @@
     "id": "b5h2vlmj7b",
     "status": "not-open",
     "company": "Optiver",
-    "name": "Quantitative Trading Internship"
+    "name": "Quantitative Trading Internship (2027 Start)"
   },
   {
     "id": "b5izv0o14h",
