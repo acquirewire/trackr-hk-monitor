@@ -1501,7 +1501,7 @@
   },
   {
     "id": "p5ry62gg69",
-    "status": "not-open",
+    "status": "open",
     "company": "Moelis & Co",
     "name": "2027 Summer Analyst, Investment Banking"
   },
@@ -1684,6 +1684,12 @@
     "status": "not-open",
     "company": "Stifel",
     "name": "Investment Banking Summer Intern"
+  },
+  {
+    "id": "r24wwydaz1",
+    "status": "open",
+    "company": "iSAM",
+    "name": "Quantitative Research Internship"
   },
   {
     "id": "r3m482qusd",
