@@ -1,6 +1,2624 @@
-{
-  "id": null,
-  "status": "not-open",
-  "company": null,
-  "name": null
-}
+﻿[
+    {
+        "id":  "36jiyb6sx2",
+        "status":  "open",
+        "company":  "AmplifyME",
+        "name":  "Summer Analyst Training Programme"
+    },
+    {
+        "id":  "8q64c5c67r",
+        "status":  "open",
+        "company":  "LionTree",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "a1g6tsa2mi",
+        "status":  "not-open",
+        "company":  "Northern Trust",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "a4f0hws2s1",
+        "status":  "not-open",
+        "company":  "AXA",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "a69wnq98uh",
+        "status":  "open",
+        "company":  "Redburn",
+        "name":  "2027 Redburn Summer Intern Programme"
+    },
+    {
+        "id":  "a708ak3kpa",
+        "status":  "not-open",
+        "company":  "PwC",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "aayfza2mcj",
+        "status":  "not-open",
+        "company":  "William Blair",
+        "name":  "Investment Banking Summer Analyst, Secondary Advisory"
+    },
+    {
+        "id":  "abmnsbyf12",
+        "status":  "not-open",
+        "company":  "National Bank of Canada",
+        "name":  "Intern"
+    },
+    {
+        "id":  "acjoeaxfvp",
+        "status":  "not-open",
+        "company":  "Neuberger Berman",
+        "name":  "Summer Intern 2027"
+    },
+    {
+        "id":  "acrh43hawb",
+        "status":  "open",
+        "company":  "BNP Paribas",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "ad3lztlpb6",
+        "status":  "not-open",
+        "company":  "Maven Securities",
+        "name":  "Trading Spring Week 2027"
+    },
+    {
+        "id":  "ae3m3m8c82",
+        "status":  "not-open",
+        "company":  "CD\u0026R",
+        "name":  "Private Equity Spring Insight 2027"
+    },
+    {
+        "id":  "aiab45uqv1",
+        "status":  "not-open",
+        "company":  "Schonfeld",
+        "name":  "2027 Summer Intern"
+    },
+    {
+        "id":  "akn7aqzxhe",
+        "status":  "open",
+        "company":  "Quantbot Technologies",
+        "name":  "Quantitative Researcher Internship - 2027"
+    },
+    {
+        "id":  "aou4ksbfee",
+        "status":  "not-open",
+        "company":  "Pension Insurance Corporation",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "apyw38vww4",
+        "status":  "not-open",
+        "company":  "Tower Research Capital",
+        "name":  "Quantitative Trader/Researcher Summer Internship 2027"
+    },
+    {
+        "id":  "arqa3vd0rc",
+        "status":  "not-open",
+        "company":  "TP ICAP",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "asqixbxhe9",
+        "status":  "not-open",
+        "company":  "EQ",
+        "name":  "Accounting Internship"
+    },
+    {
+        "id":  "atfsqxsv9d",
+        "status":  "not-open",
+        "company":  "Cygnum Capital",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "auc03bktrg",
+        "status":  "not-open",
+        "company":  "Piper Sandler",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "aug0u8w749",
+        "status":  "not-open",
+        "company":  "Insurance Advisory Partners",
+        "name":  "Investment Banking Intern"
+    },
+    {
+        "id":  "axuzqzfnhg",
+        "status":  "not-open",
+        "company":  "Verition Fund Management",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "azkakpq5av",
+        "status":  "not-open",
+        "company":  "Nuveen",
+        "name":  "Summer Intern 2027"
+    },
+    {
+        "id":  "azo61hhi68",
+        "status":  "not-open",
+        "company":  "Liquidnet",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "b5h2vlmj7b",
+        "status":  "not-open",
+        "company":  "Optiver",
+        "name":  "Quantitative Trading Internship (2027 Start)"
+    },
+    {
+        "id":  "b5izv0o14h",
+        "status":  "not-open",
+        "company":  "M\u0026G",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "b6p937hxf9",
+        "status":  "not-open",
+        "company":  "PGIM",
+        "name":  "Investment Analyst Intern"
+    },
+    {
+        "id":  "b9tvd29igh",
+        "status":  "not-open",
+        "company":  "Caxton Associates",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "bb3ycc8voa",
+        "status":  "not-open",
+        "company":  "Macro Hive",
+        "name":  "2027 Summer Internship – Sales \u0026 Trading"
+    },
+    {
+        "id":  "bd2myaekvy",
+        "status":  "not-open",
+        "company":  "Tradeweb",
+        "name":  "2027 Summer Internship Program"
+    },
+    {
+        "id":  "beiy6vsp8q",
+        "status":  "not-open",
+        "company":  "Apple",
+        "name":  "Finance Development Program (FDP) - Internship - Summer 2027"
+    },
+    {
+        "id":  "bhspkdoik3",
+        "status":  "not-open",
+        "company":  "Platinum Peak Holdings Ltd",
+        "name":  "Private Equity (M\u0026A) Intern"
+    },
+    {
+        "id":  "bhtxmrk0ly",
+        "status":  "not-open",
+        "company":  "Canada Life",
+        "name":  "Actuarial Intern"
+    },
+    {
+        "id":  "bs8nsgxgt2",
+        "status":  "not-open",
+        "company":  "AIG",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "bsebgwj6le",
+        "status":  "not-open",
+        "company":  "Hamilton Lane",
+        "name":  "Summer Intern, Portfolio Management Group"
+    },
+    {
+        "id":  "bsnvfv9qsh",
+        "status":  "not-open",
+        "company":  "KPMG",
+        "name":  "Insight Penultimate Year Talent"
+    },
+    {
+        "id":  "byxw8zga6c",
+        "status":  "not-open",
+        "company":  "EY",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "c0wmvj8qon",
+        "status":  "not-open",
+        "company":  "Rede Partners",
+        "name":  "Spring into Rede Insight Programme 2027"
+    },
+    {
+        "id":  "c10zc6rp2t",
+        "status":  "not-open",
+        "company":  "BP",
+        "name":  "Summer Internship - Trading \u0026 Shipping"
+    },
+    {
+        "id":  "c2zevtekgi",
+        "status":  "not-open",
+        "company":  "Citco",
+        "name":  "12 Week Fund Services Internship"
+    },
+    {
+        "id":  "c4gjxz3nn4",
+        "status":  "not-open",
+        "company":  "Point72",
+        "name":  "2028 Academy Investment Summer Internship"
+    },
+    {
+        "id":  "c63hc5wd77",
+        "status":  "not-open",
+        "company":  "Compound Equity Group",
+        "name":  "Junior Investor (Summer 2027 Internship)"
+    },
+    {
+        "id":  "c7g4fk5rp9",
+        "status":  "not-open",
+        "company":  "Dare",
+        "name":  "Spring Insight Week 2027"
+    },
+    {
+        "id":  "cbwmr2rodz",
+        "status":  "not-open",
+        "company":  "Genesis Quant Capital",
+        "name":  "Junior Quant Researcher"
+    },
+    {
+        "id":  "cc39qt49iu",
+        "status":  "not-open",
+        "company":  "Future Planet Capital",
+        "name":  "Venture Capital \u0026 Investment Micro-Internship - March 2027"
+    },
+    {
+        "id":  "cdg1tg94ta",
+        "status":  "not-open",
+        "company":  "EY-Parthenon",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "chbmtdbpl0",
+        "status":  "not-open",
+        "company":  "Skagen Capital",
+        "name":  "Investment banking intern"
+    },
+    {
+        "id":  "ciol52e7i6",
+        "status":  "not-open",
+        "company":  "Capital Group",
+        "name":  "CAP Summer Associate - Europe (2027)"
+    },
+    {
+        "id":  "ckpsh50qw1",
+        "status":  "not-open",
+        "company":  "Superbet",
+        "name":  "Sports Quantitative Analyst Intern"
+    },
+    {
+        "id":  "clz09d8adr",
+        "status":  "not-open",
+        "company":  "Simon-Kucher",
+        "name":  "Generalist Consulting Summer Internship"
+    },
+    {
+        "id":  "cm5khbvj1f",
+        "status":  "not-open",
+        "company":  "Bloomberg",
+        "name":  "2027 Analytics \u0026 Sales Summer Internship"
+    },
+    {
+        "id":  "ctm0in068j",
+        "status":  "not-open",
+        "company":  "Temasek",
+        "name":  "Temasek Summer Associate Programme 2027"
+    },
+    {
+        "id":  "cxamkqkpx8",
+        "status":  "open",
+        "company":  "Centerview Partners",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "cy7vjr24s4",
+        "status":  "not-open",
+        "company":  "Grant Thornton",
+        "name":  "Internship Programme (Summer 2027)"
+    },
+    {
+        "id":  "d54muvlsjk",
+        "status":  "not-open",
+        "company":  "BNY Mellon",
+        "name":  "2027 Summer Internship Program"
+    },
+    {
+        "id":  "da9vcxm822",
+        "status":  "not-open",
+        "company":  "Peel Hunt",
+        "name":  "Investment Banking Internship 2027"
+    },
+    {
+        "id":  "dcglidzkau",
+        "status":  "not-open",
+        "company":  "Turner \u0026 Townsend",
+        "name":  "Summer Placement 2027"
+    },
+    {
+        "id":  "dcnv21q1ax",
+        "status":  "not-open",
+        "company":  "ABN AMRO",
+        "name":  "Summer Intern - Corporate DCM"
+    },
+    {
+        "id":  "dfevld4zx3",
+        "status":  "not-open",
+        "company":  "NERA",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "dn9h185llq",
+        "status":  "not-open",
+        "company":  "Aquatic Capital Management",
+        "name":  "Quantitative Researcher, Intern (Summer 2028)"
+    },
+    {
+        "id":  "don716l187",
+        "status":  "not-open",
+        "company":  "FactSet",
+        "name":  "Internship (Summer 2027)"
+    },
+    {
+        "id":  "dqhzub5g4a",
+        "status":  "not-open",
+        "company":  "Harris Williams",
+        "name":  "Summer Analyst"
+    },
+    {
+        "id":  "dt3wtfqpqg",
+        "status":  "not-open",
+        "company":  "Tencent",
+        "name":  "Business Development Intern"
+    },
+    {
+        "id":  "du29tzlzou",
+        "status":  "not-open",
+        "company":  "London Stock Exchange Group",
+        "name":  "Summer Internship (2027)"
+    },
+    {
+        "id":  "dubw6kbl8c",
+        "status":  "not-open",
+        "company":  "Fide Partners",
+        "name":  "Associate Consultant Intern"
+    },
+    {
+        "id":  "dueuynil40",
+        "status":  "not-open",
+        "company":  "Wells Fargo",
+        "name":  "EMEA Summer Analyst"
+    },
+    {
+        "id":  "dyyl9ib68p",
+        "status":  "not-open",
+        "company":  "Korn Ferry",
+        "name":  "UK Summer Internship"
+    },
+    {
+        "id":  "dz866vnh0h",
+        "status":  "not-open",
+        "company":  "Qube RT",
+        "name":  "2027 - Internship, Quantitative Research/Trading"
+    },
+    {
+        "id":  "dzr243u4q0",
+        "status":  "not-open",
+        "company":  "Houlihan Lokey",
+        "name":  "Summer Financial Analyst 2027"
+    },
+    {
+        "id":  "e16v4wdamh",
+        "status":  "not-open",
+        "company":  "Government Economic Service",
+        "name":  " Summer Placement Scheme"
+    },
+    {
+        "id":  "e18aos5dt7",
+        "status":  "not-open",
+        "company":  "Global Gate",
+        "name":  "2027 Private Equity Internship Programme"
+    },
+    {
+        "id":  "e3m7xup793",
+        "status":  "open",
+        "company":  "D.E. Shaw",
+        "name":  "Trader/Analyst Intern (London) - Summer 2027"
+    },
+    {
+        "id":  "e7s66y7vqb",
+        "status":  "not-open",
+        "company":  "Analysys Mason",
+        "name":  "Intern Associate Consultant, 2027"
+    },
+    {
+        "id":  "e9dmm1344n",
+        "status":  "not-open",
+        "company":  "British Land",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "ea0zz8tiuw",
+        "status":  "not-open",
+        "company":  "RBC Capital Markets",
+        "name":  "2027 Summer Analyst"
+    },
+    {
+        "id":  "ebleh9fb9z",
+        "status":  "not-open",
+        "company":  "Midland Heart",
+        "name":  "Management Accountant - Internship (Summer)"
+    },
+    {
+        "id":  "epdmaollad",
+        "status":  "not-open",
+        "company":  "Proxima",
+        "name":  "UK Summer Internship 2027"
+    },
+    {
+        "id":  "erihfcjatp",
+        "status":  "not-open",
+        "company":  "Alpha FMC",
+        "name":  "Summer Diversity Internship 2027"
+    },
+    {
+        "id":  "esbb5g26se",
+        "status":  "not-open",
+        "company":  "IQT",
+        "name":  "Investment Associate Internship (US Citizens Only)"
+    },
+    {
+        "id":  "esor0x2azb",
+        "status":  "not-open",
+        "company":  "GEP",
+        "name":  "Intern - Consulting 2027"
+    },
+    {
+        "id":  "etpr8cn8rs",
+        "status":  "not-open",
+        "company":  "RSM",
+        "name":  "Internship 2027"
+    },
+    {
+        "id":  "ewjyw2o5q9",
+        "status":  "not-open",
+        "company":  "AustralianSuper",
+        "name":  "2027 Intern Program"
+    },
+    {
+        "id":  "exhuqzlxhm",
+        "status":  "open",
+        "company":  "Citadel",
+        "name":  "2027 Associate Intern"
+    },
+    {
+        "id":  "exvak3czfl",
+        "status":  "not-open",
+        "company":  "KPMG",
+        "name":  "Vacation Audit - ACA"
+    },
+    {
+        "id":  "ez4juzixva",
+        "status":  "not-open",
+        "company":  "PKF Littlejohn",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "f0s3loy82w",
+        "status":  "not-open",
+        "company":  "The Dot Group",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "f3nm6g2rm1",
+        "status":  "not-open",
+        "company":  "Gunvor",
+        "name":  "Analytics Intern – Power \u0026 Gas Trading"
+    },
+    {
+        "id":  "f5tqkrqk8z",
+        "status":  "not-open",
+        "company":  "Interpath Advisory",
+        "name":  "Intern Analyst"
+    },
+    {
+        "id":  "f8uxqtk1jy",
+        "status":  "not-open",
+        "company":  "Atlanta Wealth",
+        "name":  "Equity Analyst Internship, Asset Management"
+    },
+    {
+        "id":  "fard0ap99i",
+        "status":  "not-open",
+        "company":  "Coinbase",
+        "name":  "Internal Audit Intern"
+    },
+    {
+        "id":  "fe2i6kwkvq",
+        "status":  "not-open",
+        "company":  "Aventum Group",
+        "name":  "Underwriting Assistant Intern"
+    },
+    {
+        "id":  "fh7e9eki8n",
+        "status":  "not-open",
+        "company":  "Azets",
+        "name":  "Corporate Finance Summer Intern"
+    },
+    {
+        "id":  "fhjymdzi8w",
+        "status":  "open",
+        "company":  "Squarepoint Capital",
+        "name":  "Intern Quant Researcher"
+    },
+    {
+        "id":  "fhy62vq6u6",
+        "status":  "not-open",
+        "company":  "LMR Partners",
+        "name":  "Investments Summer Internship 2027"
+    },
+    {
+        "id":  "fiopvw973y",
+        "status":  "not-open",
+        "company":  "Lloyds Banking Group",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "fkdve7jxf5",
+        "status":  "not-open",
+        "company":  "Swiss Re",
+        "name":  "Underwriting Administration Intern"
+    },
+    {
+        "id":  "flg0id024v",
+        "status":  "not-open",
+        "company":  "GLG",
+        "name":  "GLG London Summer Internship"
+    },
+    {
+        "id":  "fnuxhnzv4f",
+        "status":  "not-open",
+        "company":  "Julius Baer",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "fqh4jjiwsn",
+        "status":  "not-open",
+        "company":  "Ripple",
+        "name":  "Quantitative Trading Intern (Summer 2027)"
+    },
+    {
+        "id":  "fs22g7rify",
+        "status":  "not-open",
+        "company":  "Private Equity Insights",
+        "name":  "Global Internship Program"
+    },
+    {
+        "id":  "ft3m2hxomj",
+        "status":  "open",
+        "company":  "Aquatic Capital Management",
+        "name":  "Quantitative Researcher, Intern (Summer 2027)"
+    },
+    {
+        "id":  "fv4i0rsutg",
+        "status":  "not-open",
+        "company":  "Dimensional Fund Advisors",
+        "name":  "Asset Management Internship - Summer 2027"
+    },
+    {
+        "id":  "g41kdiej54",
+        "status":  "not-open",
+        "company":  "DealGlobe",
+        "name":  "M\u0026A Analyst Intern (Mandarin speaking)"
+    },
+    {
+        "id":  "g5lrugluuh",
+        "status":  "not-open",
+        "company":  "BTG Pactual",
+        "name":  "Internship | Special Situations"
+    },
+    {
+        "id":  "gbignl0m21",
+        "status":  "open",
+        "company":  "IMC Trading",
+        "name":  "Trader Intern (2027)"
+    },
+    {
+        "id":  "gc9gpn82zu",
+        "status":  "not-open",
+        "company":  "RWE",
+        "name":  "Women in Trading Summer Internship Programme"
+    },
+    {
+        "id":  "ge7rgdh4cu",
+        "status":  "not-open",
+        "company":  "Hayfin Capital Management",
+        "name":  "Summer Intern 2027"
+    },
+    {
+        "id":  "gfgk161pkv",
+        "status":  "not-open",
+        "company":  "W. P. Carey",
+        "name":  "Investments Summer Analyst 2027"
+    },
+    {
+        "id":  "ggpemfigcg",
+        "status":  "not-open",
+        "company":  "Saffery",
+        "name":  "Summer Internship - June 2027"
+    },
+    {
+        "id":  "ggprm6qx8i",
+        "status":  "not-open",
+        "company":  "Capgemini",
+        "name":  "Internship Consulting or Technical routes 2027"
+    },
+    {
+        "id":  "gm2jqd7nf4",
+        "status":  "not-open",
+        "company":  "Pictet Asset Management",
+        "name":  "Equities Business Management Summer Internship 2027"
+    },
+    {
+        "id":  "gmu72ouize",
+        "status":  "not-open",
+        "company":  "The Wall Street Journal",
+        "name":  "Business News Internship (Summer 2027)"
+    },
+    {
+        "id":  "gp1wqbnqpr",
+        "status":  "not-open",
+        "company":  "Deloitte",
+        "name":  "Summer Vacation Scheme"
+    },
+    {
+        "id":  "gr8jadtco5",
+        "status":  "closed",
+        "company":  "EDF Trading",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "gzbfggud2m",
+        "status":  "not-open",
+        "company":  "ZS",
+        "name":  "Strategy Insights \u0026 Planning Associate - Intern"
+    },
+    {
+        "id":  "h09z175evi",
+        "status":  "not-open",
+        "company":  "Bank of England",
+        "name":  "Penultimate Year Internship Programme"
+    },
+    {
+        "id":  "h141nmytwp",
+        "status":  "not-open",
+        "company":  "Millennium Management",
+        "name":  "Millennium Investment Internship 2028"
+    },
+    {
+        "id":  "h4jw92wib1",
+        "status":  "not-open",
+        "company":  "Colliers",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "h6hoo3cydb",
+        "status":  "not-open",
+        "company":  "Point72",
+        "name":  "International Sector Analyst Internship"
+    },
+    {
+        "id":  "haccbyr80o",
+        "status":  "not-open",
+        "company":  "Future Planet Capital",
+        "name":  "Venture Capital Micro-Internship - December 2026"
+    },
+    {
+        "id":  "hcjw8a7q3a",
+        "status":  "not-open",
+        "company":  "Legal \u0026 General",
+        "name":  "Intern Programme 2027"
+    },
+    {
+        "id":  "hdg6u6fiw5",
+        "status":  "not-open",
+        "company":  "Ithaca Energy",
+        "name":  "Finance Intern"
+    },
+    {
+        "id":  "hjccmw5by3",
+        "status":  "not-open",
+        "company":  "BTIG",
+        "name":  "2027 UK Internship Program"
+    },
+    {
+        "id":  "hjv32e8dau",
+        "status":  "open",
+        "company":  "Qatalyst Partners",
+        "name":  "2027 M\u0026A Advisory Summer Internship"
+    },
+    {
+        "id":  "ho7htxctdb",
+        "status":  "open",
+        "company":  "UBS",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "hu647l11hv",
+        "status":  "not-open",
+        "company":  "StepStone Group",
+        "name":  "2027 Private Equity Summer Analyst"
+    },
+    {
+        "id":  "hx532hd8cw",
+        "status":  "not-open",
+        "company":  "NatWest Markets",
+        "name":  "Front Office - Internship"
+    },
+    {
+        "id":  "i5ditgb79q",
+        "status":  "not-open",
+        "company":  "Canary Wharf Group",
+        "name":  "Internship Programme 2027"
+    },
+    {
+        "id":  "i69m4jp4qu",
+        "status":  "not-open",
+        "company":  "Panmure Liberum",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "i6vyr5sh3x",
+        "status":  "not-open",
+        "company":  "Nationwide",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "ibe2ewlars",
+        "status":  "not-open",
+        "company":  "Affinius Capital",
+        "name":  "Summer 2027 Intern"
+    },
+    {
+        "id":  "ic7l70anjf",
+        "status":  "not-open",
+        "company":  "Alvine Capital",
+        "name":  "Summer Intern - London, UK"
+    },
+    {
+        "id":  "icy6ukpknj",
+        "status":  "open",
+        "company":  "Standard Chartered",
+        "name":  "Internship Programme 2027"
+    },
+    {
+        "id":  "ifa4g777x0",
+        "status":  "not-open",
+        "company":  "Burford Capital",
+        "name":  "Summer Analyst Internship"
+    },
+    {
+        "id":  "igzfyg43go",
+        "status":  "not-open",
+        "company":  "Baird",
+        "name":  "M\u0026A Summer Internship 2027"
+    },
+    {
+        "id":  "iir7vv973l",
+        "status":  "not-open",
+        "company":  "William Blair",
+        "name":  "Investment Banking Summer 2027 Analyst"
+    },
+    {
+        "id":  "im5xmznnq7",
+        "status":  "not-open",
+        "company":  "Everest",
+        "name":  "2027 Underwriting Internship Programme Scheme"
+    },
+    {
+        "id":  "inqmkxkwxu",
+        "status":  "not-open",
+        "company":  "Climate Investment",
+        "name":  "2027 Summer Intern"
+    },
+    {
+        "id":  "inr3pvtd84",
+        "status":  "not-open",
+        "company":  "Just",
+        "name":  "Actuarial Summer Intern (July 2027)"
+    },
+    {
+        "id":  "ioh6unf9t7",
+        "status":  "not-open",
+        "company":  "Equitix",
+        "name":  "Internship 2027"
+    },
+    {
+        "id":  "ip4c0gkom2",
+        "status":  "not-open",
+        "company":  "Visa",
+        "name":  "Consulting \u0026 Analytics Intern"
+    },
+    {
+        "id":  "iphvx1ttlp",
+        "status":  "not-open",
+        "company":  "Sixth Street",
+        "name":  "2027 Summer Internship Program - UK Investing"
+    },
+    {
+        "id":  "itmon9wb4z",
+        "status":  "open",
+        "company":  "Da Vinci Trading",
+        "name":  "2027 Quant Trading Intern"
+    },
+    {
+        "id":  "itufkflzif",
+        "status":  "not-open",
+        "company":  "Lincoln International",
+        "name":  "UK Summer Internship Programme 2027"
+    },
+    {
+        "id":  "iumphbd6bl",
+        "status":  "not-open",
+        "company":  "Morgan Stanley",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "iyocl5x6ux",
+        "status":  "open",
+        "company":  "Atlas Holdings",
+        "name":  "Private Equity Summer Internship 2027"
+    },
+    {
+        "id":  "j0du02xc2g",
+        "status":  "not-open",
+        "company":  "Cabot Properties",
+        "name":  "Investment Intern"
+    },
+    {
+        "id":  "j2ibyxkul8",
+        "status":  "not-open",
+        "company":  "Barnett Waddingham",
+        "name":  "Summer Student - 2027 intake"
+    },
+    {
+        "id":  "j9bml0081h",
+        "status":  "open",
+        "company":  "Jump Trading",
+        "name":  "Campus Quantitative Trader (Intern)"
+    },
+    {
+        "id":  "ja3ruuss1k",
+        "status":  "not-open",
+        "company":  "7IM",
+        "name":  "Work Experience 2027"
+    },
+    {
+        "id":  "jaxn3f8xxp",
+        "status":  "open",
+        "company":  "GSA Capital",
+        "name":  "Women in Trading Insight Programme - 2027"
+    },
+    {
+        "id":  "jgbgdkn8pv",
+        "status":  "open",
+        "company":  "G-Research",
+        "name":  "Quant Research Internship"
+    },
+    {
+        "id":  "jj4ud8v1p5",
+        "status":  "not-open",
+        "company":  "Allia C\u0026C",
+        "name":  "Advisory and Funding Team Internship"
+    },
+    {
+        "id":  "jjke2io9g0",
+        "status":  "not-open",
+        "company":  "Alvarez \u0026 Marsal",
+        "name":  "Summer Intern, Corporate Finance"
+    },
+    {
+        "id":  "jmomi39y30",
+        "status":  "not-open",
+        "company":  "Westgrove",
+        "name":  "Summer Analyst"
+    },
+    {
+        "id":  "jp01p6e92w",
+        "status":  "not-open",
+        "company":  "BBVA",
+        "name":  "Summer Internship C\u0026IB"
+    },
+    {
+        "id":  "jpmj3ezzzo",
+        "status":  "not-open",
+        "company":  "Howden",
+        "name":  "Howden Re Summer Internship"
+    },
+    {
+        "id":  "jvqp1omvr4",
+        "status":  "not-open",
+        "company":  "Franklin Templeton",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "jvu629ro7q",
+        "status":  "not-open",
+        "company":  "Inverto",
+        "name":  "Summer internship: Procurement \u0026 supply chain consulting"
+    },
+    {
+        "id":  "jxjtqqbiwa",
+        "status":  "not-open",
+        "company":  "Ankura",
+        "name":  "Summer Internship 2027 Turnaround \u0026 Restructuring"
+    },
+    {
+        "id":  "jy3r8dloa9",
+        "status":  "not-open",
+        "company":  "L\u0027Oréal",
+        "name":  "Finance Summer Internship 2027"
+    },
+    {
+        "id":  "jyb7ovz5je",
+        "status":  "not-open",
+        "company":  "TD Securities",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "k1bbbdj4vb",
+        "status":  "not-open",
+        "company":  "Flowdesk",
+        "name":  "Sales Intern EMEA (F/M/D)"
+    },
+    {
+        "id":  "k1sxt56fqr",
+        "status":  "not-open",
+        "company":  "Grosvenor",
+        "name":  "Graduate Internship Programme"
+    },
+    {
+        "id":  "k20008uohn",
+        "status":  "not-open",
+        "company":  "Blockchain.com",
+        "name":  "Finance Summer Intern"
+    },
+    {
+        "id":  "k4lz8xo47m",
+        "status":  "not-open",
+        "company":  "EBRD",
+        "name":  "Summer Intern, Economics"
+    },
+    {
+        "id":  "k8asf1h97h",
+        "status":  "open",
+        "company":  "DRW",
+        "name":  "Quantitative Trading Analyst Intern"
+    },
+    {
+        "id":  "kaugw1nera",
+        "status":  "not-open",
+        "company":  "OC\u0026C",
+        "name":  "Associate Consultant Summer Internship 2027"
+    },
+    {
+        "id":  "kbeshj3j8g",
+        "status":  "not-open",
+        "company":  "Carter Jonas",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "kbrgyn6z80",
+        "status":  "open",
+        "company":  "GIC",
+        "name":  "GIC Internship Programme 2027"
+    },
+    {
+        "id":  "ke74fora4p",
+        "status":  "not-open",
+        "company":  "AAB Group",
+        "name":  "2027 Internship Opportunities"
+    },
+    {
+        "id":  "kgaz7t35du",
+        "status":  "open",
+        "company":  "Revolut",
+        "name":  "Internship Programme 2027"
+    },
+    {
+        "id":  "ki2ye9ze23",
+        "status":  "not-open",
+        "company":  "CFC",
+        "name":  "Insurance Internship - Summer 2027"
+    },
+    {
+        "id":  "kk8tgbn1mu",
+        "status":  "not-open",
+        "company":  "Teza Technologies",
+        "name":  "2027 Quantitative Research Internship"
+    },
+    {
+        "id":  "km5u0yio7b",
+        "status":  "not-open",
+        "company":  "Quantuma",
+        "name":  "Corporate Finance Analyst (Intern)"
+    },
+    {
+        "id":  "kmgvblsyus",
+        "status":  "not-open",
+        "company":  "MarketAxess",
+        "name":  "Quant Research Intern 2027"
+    },
+    {
+        "id":  "kmpvb19l8n",
+        "status":  "not-open",
+        "company":  "First Wealth",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "koc5rdttpk",
+        "status":  "not-open",
+        "company":  "Lazard Asset Management",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "krhnmlit2u",
+        "status":  "not-open",
+        "company":  "StoneX",
+        "name":  "Intern – Trading \u0026 Sales (Metals)"
+    },
+    {
+        "id":  "ksedh1jacq",
+        "status":  "open",
+        "company":  "Wincent",
+        "name":  "Quant Research/Trading Internship - Summer 2027"
+    },
+    {
+        "id":  "kvtodecvpc",
+        "status":  "not-open",
+        "company":  "Gleacher Shacklock",
+        "name":  "Investment Banking Summer Internship 2027"
+    },
+    {
+        "id":  "l28bp19oez",
+        "status":  "not-open",
+        "company":  "Near Future",
+        "name":  "Financial Modelling Intern"
+    },
+    {
+        "id":  "l773lcjn4s",
+        "status":  "not-open",
+        "company":  "Audit Scotland",
+        "name":  "Summer Internship in Audit (2027)"
+    },
+    {
+        "id":  "l9cxy1s0p4",
+        "status":  "not-open",
+        "company":  "Rystad Energy",
+        "name":  "Management Consultant Intern - 2027"
+    },
+    {
+        "id":  "la4z9pe7bb",
+        "status":  "not-open",
+        "company":  "Raine Group",
+        "name":  "2027 Summer Analyst"
+    },
+    {
+        "id":  "lb1022kzh5",
+        "status":  "not-open",
+        "company":  "Rede Partners",
+        "name":  "2027 Summer Intern Programme"
+    },
+    {
+        "id":  "lbrom5xar1",
+        "status":  "not-open",
+        "company":  "J.P. Morgan",
+        "name":  "2027 Summer Internship Program"
+    },
+    {
+        "id":  "lfepu2ecy4",
+        "status":  "not-open",
+        "company":  "Howden",
+        "name":  "Investment Banking Summer Analyst"
+    },
+    {
+        "id":  "lhwn2offnc",
+        "status":  "not-open",
+        "company":  "Rothesay",
+        "name":  "Internship Programme"
+    },
+    {
+        "id":  "lk5pk8ey90",
+        "status":  "not-open",
+        "company":  "NextWave Consulting",
+        "name":  "Financial Markets Intern 2027"
+    },
+    {
+        "id":  "lkne03tuty",
+        "status":  "closed",
+        "company":  "Patrizia",
+        "name":  "Student Analyst – Investment Technology, Real Estate (Part-time)"
+    },
+    {
+        "id":  "lnamuraem2",
+        "status":  "not-open",
+        "company":  "Guidehouse",
+        "name":  "Intern - Campus Summer 2027"
+    },
+    {
+        "id":  "lofwodoeg3",
+        "status":  "open",
+        "company":  "Jane Street",
+        "name":  "Quantitative Trading Intern Summer 2027"
+    },
+    {
+        "id":  "losyzouuc4",
+        "status":  "not-open",
+        "company":  "Columbia Threadneedle Investments",
+        "name":  "Investments Internship"
+    },
+    {
+        "id":  "lpskj0okz1",
+        "status":  "open",
+        "company":  "Chicago Trading Company",
+        "name":  "Quant Trading Internship - Summer 2027"
+    },
+    {
+        "id":  "lqf7umgi4m",
+        "status":  "not-open",
+        "company":  "Balyasny Asset Management",
+        "name":  "Quantitative Analyst – Macro \u0026 Commodities (Summer Internship)"
+    },
+    {
+        "id":  "lqy9sbesnd",
+        "status":  "not-open",
+        "company":  "Network Rail",
+        "name":  "Finance Summer Placement"
+    },
+    {
+        "id":  "ls80h3yvi5",
+        "status":  "not-open",
+        "company":  "Convex Insurance",
+        "name":  "Summer Intern"
+    },
+    {
+        "id":  "lslja0rnau",
+        "status":  "not-open",
+        "company":  "D.E. Shaw",
+        "name":  "D. E. Shaw Investment Management (DESIM) Intern – Summer 2027"
+    },
+    {
+        "id":  "lyf3wh7xr1",
+        "status":  "not-open",
+        "company":  "Arkle Finance",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "m175wbwe1c",
+        "status":  "not-open",
+        "company":  "Bastion Trading",
+        "name":  "Trading \u0026 Quant Summer Internship 2027"
+    },
+    {
+        "id":  "m2eww31v2k",
+        "status":  "open",
+        "company":  "Goldman Sachs",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "m4i6m8yfi1",
+        "status":  "not-open",
+        "company":  "Baker Hughes",
+        "name":  "Emerging Talent - Finance 2027 Opportunities"
+    },
+    {
+        "id":  "ma6dlwvi1w",
+        "status":  "not-open",
+        "company":  "Tokio Marine Kiln",
+        "name":  "2027 TMK Actuarial \u0026 Analytics Internship Programme"
+    },
+    {
+        "id":  "maqfd0rg5r",
+        "status":  "not-open",
+        "company":  "American Express",
+        "name":  "Campus - Internship Programme"
+    },
+    {
+        "id":  "med04p8tyx",
+        "status":  "not-open",
+        "company":  "Greenhill",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "mg2wuyo7pv",
+        "status":  "open",
+        "company":  "Blackstone",
+        "name":  "2027 Summer Analyst"
+    },
+    {
+        "id":  "mhky4jpuco",
+        "status":  "not-open",
+        "company":  "P\u0026G",
+        "name":  "Finance \u0026 Accounting Summer Internship 2027"
+    },
+    {
+        "id":  "mno7xwvia8",
+        "status":  "not-open",
+        "company":  "Dow Jones",
+        "name":  "Summer 2027 Internship"
+    },
+    {
+        "id":  "movntocu5j",
+        "status":  "not-open",
+        "company":  "Enstar Group",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "mqitm8a95w",
+        "status":  "closed",
+        "company":  "Fidelity Investments",
+        "name":  "Summer 2027 Equity Research Associate Intern"
+    },
+    {
+        "id":  "mr8evyv5i6",
+        "status":  "not-open",
+        "company":  "Weatherbys Private Bank",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "mrj7k0ivdd",
+        "status":  "not-open",
+        "company":  "Marshall Wace",
+        "name":  "Quant Research Intern"
+    },
+    {
+        "id":  "mvai4mbaih",
+        "status":  "open",
+        "company":  "Rothschild \u0026 Co.",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "my8ncwbg9k",
+        "status":  "not-open",
+        "company":  "STJ Advisors",
+        "name":  "Summer Internship Program 2027"
+    },
+    {
+        "id":  "n4lovdn4mr",
+        "status":  "not-open",
+        "company":  "S\u0026P Global",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "n4v69tcmek",
+        "status":  "not-open",
+        "company":  "ExodusPoint",
+        "name":  "Quant Internship 2027"
+    },
+    {
+        "id":  "n7rgnjtq94",
+        "status":  "not-open",
+        "company":  "L.E.K. Consulting",
+        "name":  "Summer Associate 2027"
+    },
+    {
+        "id":  "na98tftepc",
+        "status":  "not-open",
+        "company":  "Johnston Carmichael",
+        "name":  "Summer Internship - 2027"
+    },
+    {
+        "id":  "nbd23x2xe2",
+        "status":  "not-open",
+        "company":  "Man Group",
+        "name":  "2027 Summer Intern Programme"
+    },
+    {
+        "id":  "nges4j2ss5",
+        "status":  "not-open",
+        "company":  "Roland Berger",
+        "name":  "Junior Consultant - Summer Internship 2027"
+    },
+    {
+        "id":  "ngndwrip8r",
+        "status":  "not-open",
+        "company":  "Accuracy",
+        "name":  "Finance Intern"
+    },
+    {
+        "id":  "niw3zsn28z",
+        "status":  "not-open",
+        "company":  "Gartner",
+        "name":  "Account Management Internship, Summer 2027"
+    },
+    {
+        "id":  "njh66pwkvk",
+        "status":  "not-open",
+        "company":  "JLL",
+        "name":  "Capital Markets Intern - London"
+    },
+    {
+        "id":  "nk94lqpsx4",
+        "status":  "not-open",
+        "company":  "Oracle",
+        "name":  "Financial Analyst Intern"
+    },
+    {
+        "id":  "nm6hs23cj2",
+        "status":  "not-open",
+        "company":  "Zurich Insurance",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "nqf2tv2w12",
+        "status":  "not-open",
+        "company":  "Leo-Crown Estates",
+        "name":  "Intern - Dubai Real Estate"
+    },
+    {
+        "id":  "ns8veuqs44",
+        "status":  "not-open",
+        "company":  "Charities Aid Foundation",
+        "name":  "Summer 2027 Internship"
+    },
+    {
+        "id":  "nv019hrcqv",
+        "status":  "not-open",
+        "company":  "Hymans Robertson",
+        "name":  "Pensions Governance \u0026 Investment Consulting: Summer Internship"
+    },
+    {
+        "id":  "nws0cqrwfc",
+        "status":  "not-open",
+        "company":  "Citi",
+        "name":  "Summer Analyst 2027"
+    },
+    {
+        "id":  "nwym67d2by",
+        "status":  "not-open",
+        "company":  "AJ Bell",
+        "name":  "Investments Internship 2027 - 4 Week Placement"
+    },
+    {
+        "id":  "nx5tp91e0i",
+        "status":  "open",
+        "company":  "Susquehanna International Group",
+        "name":  "Quantitative Trading Internship: Summer 2027"
+    },
+    {
+        "id":  "o1vkdelshm",
+        "status":  "not-open",
+        "company":  "ICE",
+        "name":  "Summer Internship Program 2027"
+    },
+    {
+        "id":  "o4ewmv15wn",
+        "status":  "not-open",
+        "company":  "Bain \u0026 Company",
+        "name":  "True North: Scholarship for Women"
+    },
+    {
+        "id":  "o4yuh9duy2",
+        "status":  "not-open",
+        "company":  "Capstone",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "o75mg75ucl",
+        "status":  "open",
+        "company":  "Xantium",
+        "name":  "Quantitative Researcher Internship"
+    },
+    {
+        "id":  "o7nzqmb8a8",
+        "status":  "not-open",
+        "company":  "Brio Real Estate",
+        "name":  "Summer Intern"
+    },
+    {
+        "id":  "o94tw093pe",
+        "status":  "not-open",
+        "company":  "Pharus",
+        "name":  "Investment Banking Summer Analyst - 2027"
+    },
+    {
+        "id":  "obx1gcj2je",
+        "status":  "not-open",
+        "company":  "Kline Hill Partners",
+        "name":  "Summer 2027 Investment Team Intern"
+    },
+    {
+        "id":  "oew6bf55y1",
+        "status":  "not-open",
+        "company":  "Natrium Capital",
+        "name":  "Chemicals M\u0026A Research Analyst Intern"
+    },
+    {
+        "id":  "of3qunva8u",
+        "status":  "not-open",
+        "company":  "Altana Wealth",
+        "name":  "Credit Analyst Internship (Chinese speaking)"
+    },
+    {
+        "id":  "ofjumq69ce",
+        "status":  "not-open",
+        "company":  "Campbell Lutyens",
+        "name":  "Summer Analysts 2027"
+    },
+    {
+        "id":  "ofqa5h2glb",
+        "status":  "not-open",
+        "company":  "Harrison Street",
+        "name":  "Summer 2027 Intern"
+    },
+    {
+        "id":  "oh7y43zboi",
+        "status":  "not-open",
+        "company":  "NCR Atleos",
+        "name":  "Finance Internship - Summer 2027 (12 Weeks)"
+    },
+    {
+        "id":  "oqbqjs2d72",
+        "status":  "not-open",
+        "company":  "Google",
+        "name":  "Business Analyst Intern, 2027"
+    },
+    {
+        "id":  "oqlkt3kawj",
+        "status":  "not-open",
+        "company":  "Munich Re",
+        "name":  "Structured Credit Internship"
+    },
+    {
+        "id":  "ov9rqhadd8",
+        "status":  "not-open",
+        "company":  "Barclays",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "oxhgvuijlq",
+        "status":  "not-open",
+        "company":  "Oliver Wyman",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "oxiumx69hf",
+        "status":  "not-open",
+        "company":  "Orbis",
+        "name":  "Investment Analyst Internship 2026-2027"
+    },
+    {
+        "id":  "oy440jb8ep",
+        "status":  "not-open",
+        "company":  "Javelin Global Commodities",
+        "name":  "Summer Internship: Commodities Trading"
+    },
+    {
+        "id":  "p5ry62gg69",
+        "status":  "open",
+        "company":  "Moelis \u0026 Co",
+        "name":  "2027 Summer Analyst, Investment Banking"
+    },
+    {
+        "id":  "p6yvie0pik",
+        "status":  "not-open",
+        "company":  "E.ON",
+        "name":  "Quantitative Risk Intern"
+    },
+    {
+        "id":  "p9ogue7894",
+        "status":  "not-open",
+        "company":  "Wintermute",
+        "name":  "Quant Research Internship (Summer 2027)"
+    },
+    {
+        "id":  "pcef45k85e",
+        "status":  "not-open",
+        "company":  "TikTok",
+        "name":  "Intern, 2027 Summer"
+    },
+    {
+        "id":  "pcv5hecqpx",
+        "status":  "open",
+        "company":  "Bank of America",
+        "name":  "Summer 2027 Analyst Programme"
+    },
+    {
+        "id":  "pegpg3vyvg",
+        "status":  "open",
+        "company":  "Castleton Commodities International",
+        "name":  "Summer Analyst Internship Programme (Summer 2027)"
+    },
+    {
+        "id":  "pkd8satjw1",
+        "status":  "not-open",
+        "company":  "Orbis",
+        "name":  "UK Business Internship"
+    },
+    {
+        "id":  "plf9ptj35g",
+        "status":  "not-open",
+        "company":  "Intriva",
+        "name":  "Private Equity Intern"
+    },
+    {
+        "id":  "ppoepzhhl6",
+        "status":  "not-open",
+        "company":  "Shell",
+        "name":  "Assessed Internship Programme 2027"
+    },
+    {
+        "id":  "ptdp3w0lho",
+        "status":  "not-open",
+        "company":  "FTI Consulting",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "puey98sh56",
+        "status":  "not-open",
+        "company":  "HSBC",
+        "name":  "Summer Internship 2026-2027"
+    },
+    {
+        "id":  "pv2o3mjpz0",
+        "status":  "not-open",
+        "company":  "Liberty Global",
+        "name":  "Finance Intern"
+    },
+    {
+        "id":  "pv97z8l0ef",
+        "status":  "not-open",
+        "company":  "CIBC",
+        "name":  "Summer Intern 2027"
+    },
+    {
+        "id":  "pvn1wcbw3l",
+        "status":  "not-open",
+        "company":  "Oxera",
+        "name":  "Intern"
+    },
+    {
+        "id":  "pxq146w78t",
+        "status":  "open",
+        "company":  "GSA Capital",
+        "name":  "Quantitative Reseacher - Intern"
+    },
+    {
+        "id":  "q704jptfc9",
+        "status":  "not-open",
+        "company":  "Lockton",
+        "name":  "Insurance Summer Intern"
+    },
+    {
+        "id":  "q87xb8gfb2",
+        "status":  "not-open",
+        "company":  "Fenchurch Advisory",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "q9xdqpetyg",
+        "status":  "not-open",
+        "company":  "General Atlantic",
+        "name":  "2027 Summer Analyst"
+    },
+    {
+        "id":  "qenvwl9xvn",
+        "status":  "not-open",
+        "company":  "Mako Trading",
+        "name":  "Summer Internship - Trading \u0026 Technology"
+    },
+    {
+        "id":  "qf1fmy9uio",
+        "status":  "not-open",
+        "company":  "Capital One",
+        "name":  "Strategy Analyst Intern"
+    },
+    {
+        "id":  "qgua0k1sb0",
+        "status":  "not-open",
+        "company":  "Alantra",
+        "name":  "FIG Summer Intern"
+    },
+    {
+        "id":  "qlvk04173j",
+        "status":  "not-open",
+        "company":  "Nomura",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "qq9c7ufyrh",
+        "status":  "not-open",
+        "company":  "Clarksons",
+        "name":  "2027 Broking Summer Internship (shipping \u0026 commodities)"
+    },
+    {
+        "id":  "qsdoqob7x6",
+        "status":  "not-open",
+        "company":  "Aberdeen Group",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "qsexspdrf8",
+        "status":  "not-open",
+        "company":  "Allianz Insurance",
+        "name":  "Summer Intern 2027"
+    },
+    {
+        "id":  "qtbxaaaqhm",
+        "status":  "not-open",
+        "company":  "CBRE",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "quig4d87tl",
+        "status":  "not-open",
+        "company":  "Teneo",
+        "name":  "Financial Advisory Internship 2027"
+    },
+    {
+        "id":  "qy3az3ysxe",
+        "status":  "open",
+        "company":  "DV Trading",
+        "name":  "Trading Intern - Summer 2027"
+    },
+    {
+        "id":  "qzbods765y",
+        "status":  "not-open",
+        "company":  "Houlihan Lokey",
+        "name":  "Summer Financial Analyst - Manchester"
+    },
+    {
+        "id":  "qzljtoegcb",
+        "status":  "not-open",
+        "company":  "IMC Trading",
+        "name":  "Women in Trading"
+    },
+    {
+        "id":  "r13ijes05m",
+        "status":  "not-open",
+        "company":  "Stifel",
+        "name":  "Investment Banking Summer Intern"
+    },
+    {
+        "id":  "r24wwydaz1",
+        "status":  "open",
+        "company":  "iSAM",
+        "name":  "Quantitative Research Internship"
+    },
+    {
+        "id":  "r3m482qusd",
+        "status":  "not-open",
+        "company":  "Capula Investment Management",
+        "name":  "2028 Trading and Research Summer Internship"
+    },
+    {
+        "id":  "r5noscwdgi",
+        "status":  "not-open",
+        "company":  "CT: Accountants Advisers",
+        "name":  "Summer Placement Programme 2027"
+    },
+    {
+        "id":  "r8b8ayj04j",
+        "status":  "not-open",
+        "company":  "CFO Insights",
+        "name":  "Management Consulting Internship"
+    },
+    {
+        "id":  "rb96942jhs",
+        "status":  "not-open",
+        "company":  "Oak Hill Advisors",
+        "name":  "Summer Analyst 2027"
+    },
+    {
+        "id":  "rca9chywkl",
+        "status":  "not-open",
+        "company":  "Crédit Agricole",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "rcnjysntuc",
+        "status":  "not-open",
+        "company":  "Mizuho",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "rd3onmzp20",
+        "status":  "not-open",
+        "company":  "PIMCO",
+        "name":  "2027 Summer Internship - Product Analyst"
+    },
+    {
+        "id":  "rfey4f7mgn",
+        "status":  "not-open",
+        "company":  "Allied World",
+        "name":  "Actuarial Summer Internship"
+    },
+    {
+        "id":  "rj9dou0y5g",
+        "status":  "not-open",
+        "company":  "Hiscox",
+        "name":  "2027 Claims Summer Intern"
+    },
+    {
+        "id":  "rn0va6jde6",
+        "status":  "not-open",
+        "company":  "Marsh McLennan",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "ruduif38s1",
+        "status":  "not-open",
+        "company":  "Société Générale",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "rwm4p1g45l",
+        "status":  "not-open",
+        "company":  "Isio",
+        "name":  "2027 Internship Programme"
+    },
+    {
+        "id":  "s07a4s0rpi",
+        "status":  "not-open",
+        "company":  "Quadrature",
+        "name":  "Internship"
+    },
+    {
+        "id":  "s07se1yhgq",
+        "status":  "not-open",
+        "company":  "GP Bullhound",
+        "name":  "Future Stars - Work Experience \u0026 Insight Programme"
+    },
+    {
+        "id":  "s0uo2eieep",
+        "status":  "not-open",
+        "company":  "SilverTide",
+        "name":  "Sales Summer Analyst"
+    },
+    {
+        "id":  "s6irp58fdc",
+        "status":  "closed",
+        "company":  "Millennium Management",
+        "name":  "Millennium Investment Internship 2027"
+    },
+    {
+        "id":  "s8s95z4rpy",
+        "status":  "not-open",
+        "company":  "Rokos Capital Management",
+        "name":  "RCM Internship Programme 2027"
+    },
+    {
+        "id":  "sb1fvxv3d6",
+        "status":  "not-open",
+        "company":  "Deutsche Bank",
+        "name":  "Internship Programme 2027"
+    },
+    {
+        "id":  "sb2qos3wz4",
+        "status":  "not-open",
+        "company":  "AllianceBernstein",
+        "name":  "Investments Summer Intern"
+    },
+    {
+        "id":  "seznp26awp",
+        "status":  "not-open",
+        "company":  "CITIC CLSA",
+        "name":  "Internship Programme 2027"
+    },
+    {
+        "id":  "si17jqldqr",
+        "status":  "not-open",
+        "company":  "WTW",
+        "name":  "2027 Actuarial Consultant Internship Programme"
+    },
+    {
+        "id":  "sjqwmquqea",
+        "status":  "not-open",
+        "company":  "Lazard",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "slqbw22lrj",
+        "status":  "not-open",
+        "company":  "Brevan Howard",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "solur51h9q",
+        "status":  "not-open",
+        "company":  "Principal Asset Management",
+        "name":  "Intern"
+    },
+    {
+        "id":  "sot5a54m4b",
+        "status":  "not-open",
+        "company":  "Baringa",
+        "name":  "UK 2027 Summer Internship"
+    },
+    {
+        "id":  "sqaon0ffm5",
+        "status":  "not-open",
+        "company":  "KR8 Advisory",
+        "name":  "Business \u0026 Capital Advisory (Intern)"
+    },
+    {
+        "id":  "sr9fyjnaeb",
+        "status":  "not-open",
+        "company":  "Frontier Economics",
+        "name":  "2027 Economic Intern (Short-term)"
+    },
+    {
+        "id":  "srsc0rbgrz",
+        "status":  "not-open",
+        "company":  "Stout",
+        "name":  "2027 Summer Intern - Corporate Finance"
+    },
+    {
+        "id":  "sthu0dewso",
+        "status":  "not-open",
+        "company":  "NFU Mutual",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "svx4anr7pi",
+        "status":  "not-open",
+        "company":  "BMLL",
+        "name":  "Junior Quantitative Analyst Internship - Summer 2027"
+    },
+    {
+        "id":  "sy6ujhpmmm",
+        "status":  "not-open",
+        "company":  "LaSalle",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "t1pqcm4j5j",
+        "status":  "not-open",
+        "company":  "Ryan",
+        "name":  "Ryan Tax Internship Programme"
+    },
+    {
+        "id":  "t2va5huukl",
+        "status":  "not-open",
+        "company":  "Aspect Capital",
+        "name":  "Quantitative Research Summer Intern 2027"
+    },
+    {
+        "id":  "t2yo942imr",
+        "status":  "not-open",
+        "company":  "Greystar",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "t4fif38x3d",
+        "status":  "not-open",
+        "company":  "Ryan Specialty",
+        "name":  "Summer Underwriting Internship"
+    },
+    {
+        "id":  "t5gw6v5yf6",
+        "status":  "not-open",
+        "company":  "Menzies",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "t6kidzr69g",
+        "status":  "not-open",
+        "company":  "Barings",
+        "name":  "Investment Management Summer Internship"
+    },
+    {
+        "id":  "tawl9id98r",
+        "status":  "not-open",
+        "company":  "British Airways",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "tdtevotzeb",
+        "status":  "not-open",
+        "company":  "Copper.co",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "teth37ar9i",
+        "status":  "not-open",
+        "company":  "Caledonia Investments",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "tgf6wwrdfj",
+        "status":  "not-open",
+        "company":  "DWS",
+        "name":  "2027 Summer Internships"
+    },
+    {
+        "id":  "tgik24xlxt",
+        "status":  "not-open",
+        "company":  "Dimensional Fund Advisors",
+        "name":  "Investment Research - Summer Intern 2027"
+    },
+    {
+        "id":  "thbak1wdfq",
+        "status":  "not-open",
+        "company":  "Markel",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "tjm45wt1ka",
+        "status":  "not-open",
+        "company":  "Arch Insurance International",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "tk4mzv77bu",
+        "status":  "not-open",
+        "company":  "Investec",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "tmlue1jlu5",
+        "status":  "open",
+        "company":  "Virtu Financial",
+        "name":  "2027 Internship - Quantitative Trading"
+    },
+    {
+        "id":  "tq7f2zzimo",
+        "status":  "not-open",
+        "company":  "Tide Insurance",
+        "name":  "2027 Summer Placement"
+    },
+    {
+        "id":  "trx5j32l37",
+        "status":  "not-open",
+        "company":  "BDO Global",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "tsta2emevr",
+        "status":  "not-open",
+        "company":  "Financial Conduct Authority",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "tu0w9qalfe",
+        "status":  "not-open",
+        "company":  "WeChat Pay",
+        "name":  "Business Development Intern (Chinese speaking)"
+    },
+    {
+        "id":  "tuzf25ew1u",
+        "status":  "open",
+        "company":  "BTG Pactual",
+        "name":  "Summer Undergrad 2027"
+    },
+    {
+        "id":  "twiav5mr2j",
+        "status":  "not-open",
+        "company":  "Zeus Capital",
+        "name":  "Zeus Internship 2027"
+    },
+    {
+        "id":  "twwwd5dcrz",
+        "status":  "not-open",
+        "company":  "S\u0026W",
+        "name":  "Internship Programme - July 2027"
+    },
+    {
+        "id":  "u6u7g8623u",
+        "status":  "open",
+        "company":  "Capula Investment Management",
+        "name":  "Trading \u0026 Research Summer Internship 2027"
+    },
+    {
+        "id":  "u90ffc8sht",
+        "status":  "not-open",
+        "company":  "Centrica",
+        "name":  "Finance Summer Internship"
+    },
+    {
+        "id":  "ua2s6zlfxd",
+        "status":  "not-open",
+        "company":  "MKI Global Partners",
+        "name":  "Summer Analyst (Event-Driven/Special Situations)"
+    },
+    {
+        "id":  "uhco25svzv",
+        "status":  "not-open",
+        "company":  "Welltower",
+        "name":  "2027 Summer Analyst - Real Estate Investments"
+    },
+    {
+        "id":  "ukoiuzk1z2",
+        "status":  "not-open",
+        "company":  "Newton",
+        "name":  "Summer Academy 2026/6"
+    },
+    {
+        "id":  "ulgxdgimpl",
+        "status":  "not-open",
+        "company":  "Waters Corporation",
+        "name":  "M\u0026A and Strategic Finance, Summer Intern"
+    },
+    {
+        "id":  "um6r0i2p0w",
+        "status":  "not-open",
+        "company":  "Galaxy",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "umt3vitaix",
+        "status":  "not-open",
+        "company":  "Putnam",
+        "name":  "Summer Associate Internship"
+    },
+    {
+        "id":  "unybwca0bz",
+        "status":  "not-open",
+        "company":  "ExodusPoint",
+        "name":  "Fixed Income Internship - Summer 2027"
+    },
+    {
+        "id":  "upt44nsdkg",
+        "status":  "not-open",
+        "company":  "Synthesis",
+        "name":  "Quantitative Research Intern (Summer 2027)"
+    },
+    {
+        "id":  "usfmuvsk6w",
+        "status":  "not-open",
+        "company":  "PKF Smith Cooper",
+        "name":  "Internship - Summer 2027"
+    },
+    {
+        "id":  "usumgpqdd9",
+        "status":  "not-open",
+        "company":  "Fidelity International",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "uxbflsvgvz",
+        "status":  "not-open",
+        "company":  "Leerink Partners",
+        "name":  "2027 Investment Banking Summer Analyst Program"
+    },
+    {
+        "id":  "v2cq2pq6l4",
+        "status":  "not-open",
+        "company":  "Arena Investors",
+        "name":  "2027 Summer Investment Analyst"
+    },
+    {
+        "id":  "v6k3opwunl",
+        "status":  "open",
+        "company":  "Hines",
+        "name":  "2026 Summer Analyst"
+    },
+    {
+        "id":  "v9f07euc83",
+        "status":  "not-open",
+        "company":  "BAE Systems",
+        "name":  "Summer Intern"
+    },
+    {
+        "id":  "v9zvqe2c2u",
+        "status":  "not-open",
+        "company":  "Guggenheim Partners",
+        "name":  "2027 Investment Banking Analyst Intern"
+    },
+    {
+        "id":  "ver14sozvm",
+        "status":  "not-open",
+        "company":  "Eastdil Secured",
+        "name":  "2027 Summer Internship"
+    },
+    {
+        "id":  "vf402mk2y5",
+        "status":  "not-open",
+        "company":  "DC Advisory",
+        "name":  "Summer Analyst Programme 2027"
+    },
+    {
+        "id":  "vilbyy5a0z",
+        "status":  "not-open",
+        "company":  "Wood Mackenzie",
+        "name":  "Consulting Intern (June - August)"
+    },
+    {
+        "id":  "viubj3bxgn",
+        "status":  "not-open",
+        "company":  "Uber",
+        "name":  "2027 Business Development Intern"
+    },
+    {
+        "id":  "vj02b0ggc6",
+        "status":  "not-open",
+        "company":  "Perella Weinberg Partners",
+        "name":  "2027 Advisory Summer Analyst Programme"
+    },
+    {
+        "id":  "vmoxgl1hqi",
+        "status":  "not-open",
+        "company":  "Hamilton Insurance Group",
+        "name":  "Hamilton Insurance Summer Internship"
+    },
+    {
+        "id":  "vnejx51j82",
+        "status":  "not-open",
+        "company":  "Tesco",
+        "name":  "Finance Internship"
+    },
+    {
+        "id":  "vou9rfeo4t",
+        "status":  "not-open",
+        "company":  "State Street",
+        "name":  "eFX Summer Internship (10 Weeks)"
+    },
+    {
+        "id":  "voyqktczs5",
+        "status":  "not-open",
+        "company":  "Cambridge Associates",
+        "name":  "Investment Summer Analyst (Intern)"
+    },
+    {
+        "id":  "vrb6e3j24q",
+        "status":  "not-open",
+        "company":  "Cushman \u0026 Wakefield",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "vscaes1pb4",
+        "status":  "not-open",
+        "company":  "Maven Securities",
+        "name":  "Trader Summer Internship 2027"
+    },
+    {
+        "id":  "vt4roqzr11",
+        "status":  "not-open",
+        "company":  "General Electric",
+        "name":  "Capital Markets Intern"
+    },
+    {
+        "id":  "vuog4dn46o",
+        "status":  "not-open",
+        "company":  "PJT Partners",
+        "name":  "2027 Summer Intern Analyst"
+    },
+    {
+        "id":  "vvndebzwb5",
+        "status":  "open",
+        "company":  "BlackRock",
+        "name":  "2027 Summer Internship Program - EMEA"
+    },
+    {
+        "id":  "vyml6kww9z",
+        "status":  "not-open",
+        "company":  "Sky",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "vz48bwh47m",
+        "status":  "closed",
+        "company":  "Point72",
+        "name":  "2027 Academy Investment Summer Internship"
+    },
+    {
+        "id":  "w2av2m4l7c",
+        "status":  "not-open",
+        "company":  "Saltgate",
+        "name":  "Summer Programme 2027"
+    },
+    {
+        "id":  "w2i0kwnbkz",
+        "status":  "not-open",
+        "company":  "Jefferies",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "w422v28305",
+        "status":  "not-open",
+        "company":  "XTX Markets",
+        "name":  "Risk - Summer Intern 2027"
+    },
+    {
+        "id":  "w51gh5yp3d",
+        "status":  "not-open",
+        "company":  "Lendable",
+        "name":  "Lendable"
+    },
+    {
+        "id":  "wan7ar5jyb",
+        "status":  "open",
+        "company":  "Hudson River Trading",
+        "name":  "Quant Research \u0026 Trading Internship - Summer 2027"
+    },
+    {
+        "id":  "wcctkp084l",
+        "status":  "open",
+        "company":  "Millennium Management",
+        "name":  "2027 Non-Investment Summer Intern"
+    },
+    {
+        "id":  "wdgdzs85ha",
+        "status":  "not-open",
+        "company":  "Da Vinci Trading",
+        "name":  "Quant Trading Intern (May 2028)"
+    },
+    {
+        "id":  "wdodi1co85",
+        "status":  "not-open",
+        "company":  "LCP",
+        "name":  "Consulting - Summer Internship 2027"
+    },
+    {
+        "id":  "we02sc45ng",
+        "status":  "not-open",
+        "company":  "MFS",
+        "name":  "Equity Research Analyst Intern"
+    },
+    {
+        "id":  "wejolky8ln",
+        "status":  "not-open",
+        "company":  "Aon",
+        "name":  "Aon Summer Internship Programme 2027"
+    },
+    {
+        "id":  "wf05enxp1m",
+        "status":  "not-open",
+        "company":  "Raymond James",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "wfc4h37689",
+        "status":  "not-open",
+        "company":  "BCG",
+        "name":  "Summer Associate, Internship"
+    },
+    {
+        "id":  "wjpek44jr1",
+        "status":  "open",
+        "company":  "McKinsey \u0026 Company",
+        "name":  "Business Analyst Intern"
+    },
+    {
+        "id":  "wx957fsiab",
+        "status":  "open",
+        "company":  "Ares Management",
+        "name":  "Summer Analyst Programme 2027"
+    },
+    {
+        "id":  "wzjjzgbnxs",
+        "status":  "not-open",
+        "company":  "Norges Bank",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "x363ei4n3e",
+        "status":  "not-open",
+        "company":  "Aegon",
+        "name":  "Actuarial Intern (Summer 2027)"
+    },
+    {
+        "id":  "x3ops1ftx9",
+        "status":  "not-open",
+        "company":  "Flow Traders",
+        "name":  "Summer Trading Internship"
+    },
+    {
+        "id":  "x6yry9961v",
+        "status":  "not-open",
+        "company":  "Soros Fund Management",
+        "name":  "Investment Intern - Summer 2027"
+    },
+    {
+        "id":  "x7ck2mfrwf",
+        "status":  "not-open",
+        "company":  "AstraZeneca",
+        "name":  "Finance Planning \u0026 Reporting Internship"
+    },
+    {
+        "id":  "x7rffdyk80",
+        "status":  "open",
+        "company":  "SMBC",
+        "name":  "Summer Intern Programme 2027"
+    },
+    {
+        "id":  "xakjokmg1n",
+        "status":  "not-open",
+        "company":  "GPFS",
+        "name":  "Accounting Internship - Summer 2027"
+    },
+    {
+        "id":  "xdt1qjv0l9",
+        "status":  "not-open",
+        "company":  "Global Infrastructure Advisors",
+        "name":  "Analyst / Analyst Internship"
+    },
+    {
+        "id":  "xefxdf6yog",
+        "status":  "not-open",
+        "company":  "Severn Trent",
+        "name":  "Finance Summer Placement"
+    },
+    {
+        "id":  "xetcazb7wg",
+        "status":  "not-open",
+        "company":  "Compass Lexecon",
+        "name":  "Intern (Summer 2027)"
+    },
+    {
+        "id":  "xfyqgkgvqu",
+        "status":  "not-open",
+        "company":  "Scotiabank",
+        "name":  "2027 UK Summer Internship"
+    },
+    {
+        "id":  "xiil4fa6jd",
+        "status":  "not-open",
+        "company":  "Lenovo",
+        "name":  "Business Operations Intern, EMEA MBG"
+    },
+    {
+        "id":  "xjcbze30n9",
+        "status":  "not-open",
+        "company":  "Schroders",
+        "name":  "2027 Internship Programme"
+    },
+    {
+        "id":  "xjk8hu8wl7",
+        "status":  "not-open",
+        "company":  "Loizou \u0026 Co",
+        "name":  "Financial Advisory Internship"
+    },
+    {
+        "id":  "xkma01okvy",
+        "status":  "not-open",
+        "company":  "British Business Bank",
+        "name":  "Summer Internship Programme 2027"
+    },
+    {
+        "id":  "xltd0kmvdr",
+        "status":  "not-open",
+        "company":  "Retail Insights",
+        "name":  "Management Consulting Internship"
+    },
+    {
+        "id":  "xo0i0vm48f",
+        "status":  "not-open",
+        "company":  "Macquarie Group",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "xol1zhqfwc",
+        "status":  "open",
+        "company":  "Walter Scott",
+        "name":  "Summer Internship Opportunities 2027"
+    },
+    {
+        "id":  "xphn2iuqk5",
+        "status":  "not-open",
+        "company":  "Dare",
+        "name":  "Trading Summer Internship 2027"
+    },
+    {
+        "id":  "xq0kqq87g7",
+        "status":  "not-open",
+        "company":  "Dimensional Fund Advisors",
+        "name":  "Accountancy Internship, Summer 2027"
+    },
+    {
+        "id":  "xs9vqg4rnp",
+        "status":  "not-open",
+        "company":  "Amazon",
+        "name":  "Financial Analyst Intern"
+    },
+    {
+        "id":  "xudruqpl4v",
+        "status":  "not-open",
+        "company":  "Chatham Financial",
+        "name":  "Intern, Investment Management"
+    },
+    {
+        "id":  "xvndqdfnik",
+        "status":  "open",
+        "company":  "Millennium Management",
+        "name":  "2027 Quant Researcher Intern"
+    },
+    {
+        "id":  "xyn3tm5ytg",
+        "status":  "not-open",
+        "company":  "Cboe Global Markets",
+        "name":  "Quantitative Analytics Intern"
+    },
+    {
+        "id":  "y3j1tl8p6b",
+        "status":  "not-open",
+        "company":  "BGF",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "y3w9g98r3u",
+        "status":  "not-open",
+        "company":  "Gneiss Energy",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "y8ot4o9ay1",
+        "status":  "not-open",
+        "company":  "Sona Asset Management",
+        "name":  "Summer Intern Programme"
+    },
+    {
+        "id":  "y9pu80zfum",
+        "status":  "not-open",
+        "company":  "Ethical Capital Partners",
+        "name":  "Investment Intern"
+    },
+    {
+        "id":  "yayxb49x20",
+        "status":  "not-open",
+        "company":  "Charles River Associates",
+        "name":  "Intern - Summer 2027"
+    },
+    {
+        "id":  "yi8k8k7xf7",
+        "status":  "not-open",
+        "company":  "Handelsbanken",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "yjwcnlp7xl",
+        "status":  "not-open",
+        "company":  "HDI Global",
+        "name":  "Actuarial Internship"
+    },
+    {
+        "id":  "ymu5cwti74",
+        "status":  "not-open",
+        "company":  "AlphaSights",
+        "name":  "Insight Days, Client Service"
+    },
+    {
+        "id":  "ynef8w3hac",
+        "status":  "not-open",
+        "company":  "Blackfinch Group",
+        "name":  "Blackfinch Summer 2027 Internship Programme"
+    },
+    {
+        "id":  "ypjow3u7d7",
+        "status":  "not-open",
+        "company":  "Knight Frank",
+        "name":  "12-Week Work Placement"
+    },
+    {
+        "id":  "yt95ur089k",
+        "status":  "not-open",
+        "company":  "EQT",
+        "name":  "Summer Analyst Programme – EQT Real Estate"
+    },
+    {
+        "id":  "ywd6qq727f",
+        "status":  "not-open",
+        "company":  "CD\u0026R",
+        "name":  "Private Equity Summer Internship 2027"
+    },
+    {
+        "id":  "ywq6th5esp",
+        "status":  "not-open",
+        "company":  "Vanguard",
+        "name":  "Investment Management Internship, Summer 2027"
+    },
+    {
+        "id":  "yx7y1cnitj",
+        "status":  "not-open",
+        "company":  "Savills",
+        "name":  "2027 Summer Scheme"
+    },
+    {
+        "id":  "yxtfxs3j3i",
+        "status":  "not-open",
+        "company":  "Berenberg",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "z2ebhtzs9s",
+        "status":  "not-open",
+        "company":  "Forvis Mazars",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "z3igl8zoku",
+        "status":  "not-open",
+        "company":  "First Bank of Nigeria",
+        "name":  "2027 Summer Internship Programme"
+    },
+    {
+        "id":  "z6pc6xn0el",
+        "status":  "not-open",
+        "company":  "Equinor",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "z8fh9wc9uf",
+        "status":  "open",
+        "company":  "Evercore",
+        "name":  "Summer Internship (2027)"
+    },
+    {
+        "id":  "zbyismcu8o",
+        "status":  "not-open",
+        "company":  "Plural Strategy",
+        "name":  "Strategy Consulting Intern"
+    },
+    {
+        "id":  "zdngpioe4z",
+        "status":  "not-open",
+        "company":  "Moody\u0027s",
+        "name":  "Pricing and Packaging Strategy Intern"
+    },
+    {
+        "id":  "zju1cerqg5",
+        "status":  "not-open",
+        "company":  "Santander",
+        "name":  "CIB 2027 Summer Internship Program"
+    },
+    {
+        "id":  "zld4199meu",
+        "status":  "not-open",
+        "company":  "BMO Capital Markets",
+        "name":  "2027 Investment Banking Summer Analyst"
+    },
+    {
+        "id":  "zm17cu7kxl",
+        "status":  "not-open",
+        "company":  "Mercer",
+        "name":  "Summer Internship 2027"
+    },
+    {
+        "id":  "zmu1npdfdi",
+        "status":  "not-open",
+        "company":  "First Actuarial",
+        "name":  "Internship Opportunities 2027"
+    },
+    {
+        "id":  "zo14nc37p9",
+        "status":  "open",
+        "company":  "Citadel Securities",
+        "name":  "Trading \u0026 Quant Internship 2027"
+    },
+    {
+        "id":  "zobpz6my5d",
+        "status":  "not-open",
+        "company":  "Royal London",
+        "name":  "Summer Internship"
+    },
+    {
+        "id":  "zoclv3wrrh",
+        "status":  "not-open",
+        "company":  "Ardea Partners",
+        "name":  "2027 Summer Analyst Programme"
+    },
+    {
+        "id":  "zu2r2qvyh7",
+        "status":  "not-open",
+        "company":  "Arbuthnot Latham",
+        "name":  "Internship 2027"
+    },
+    {
+        "id":  "zvz2wbd9sk",
+        "status":  "not-open",
+        "company":  "InfraRed Capital Partners",
+        "name":  "2027 Summer Analyst"
+    },
+    {
+        "id":  "zzm581e112",
+        "status":  "not-open",
+        "company":  "MUFG",
+        "name":  "MUFG 2027 Summer Internship"
+    }
+]

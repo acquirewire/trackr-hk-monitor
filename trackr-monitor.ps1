@@ -100,12 +100,27 @@ foreach ($t in $cfg.trackers) {
     }
     if ($null -eq $programmes) { Log "[$($t.name)] FETCH ERROR: empty response"; continue }
 
+    # 19 Aug 2026: the API stopped returning a bare array and started returning
+    # { programmes: [...], groups: [...] }. Accept either shape so a revert on
+    # their side does not break us again.
+    if ($programmes -isnot [array] -and $programmes.PSObject.Properties.Name -contains 'programmes') {
+        $programmes = $programmes.programmes
+    }
+    $programmes = @($programmes)
+    if ($programmes.Count -eq 0) { Log "[$($t.name)] FETCH ERROR: no programmes in response"; continue }
+
     # previous state
     $prevMap  = @{}
     $firstRun = $true
     if ((Test-Path $stateFile) -and -not $Reset) {
         $firstRun = $false
-        foreach ($e in (Get-Content $stateFile -Raw | ConvertFrom-Json)) { $prevMap[$e.id] = $e.status }
+        foreach ($e in @(Get-Content $stateFile -Raw | ConvertFrom-Json)) {
+            if (-not [string]::IsNullOrWhiteSpace($e.id)) { $prevMap[$e.id] = $e.status }
+        }
+        if ($prevMap.Count -eq 0) {
+            Log "[$($t.name)] state file held no usable ids - re-baselining silently"
+            $firstRun = $true
+        }
     }
 
     # diff
@@ -127,8 +142,18 @@ foreach ($t in $cfg.trackers) {
         catch { Log "[$($t.name)] NTFY ERROR for $($p.company.name): $($_.Exception.Message)" }
     }
 
-    # persist
-    $newState | ConvertTo-Json -Depth 4 | Set-Content -Path $stateFile -Encoding utf8
+    # persist. Guard: if the count collapses versus what we had, treat it as a
+    # bad parse rather than reality and keep the old state. Wiping it is what
+    # turned the 19 Aug API change into a 25h outage.
+    if (-not $firstRun -and $prevMap.Count -ge 10 -and $newState.Count -lt ($prevMap.Count / 2)) {
+        Log "[$($t.name)] REFUSING to persist: parsed $($newState.Count) vs $($prevMap.Count) previously"
+        continue
+    }
+    # -AsArray is pwsh-only; do it by hand so this runs under 5.1 too and a
+    # single-entry state still round-trips as an array.
+    $json = $newState | ConvertTo-Json -Depth 4
+    if ($newState.Count -le 1) { $json = "[$json]" }
+    Set-Content -Path $stateFile -Value $json -Encoding utf8
     $openCount = ($newState | Where-Object { $_.status -eq 'open' }).Count
     if ($firstRun) {
         Log "[$($t.name)] Baseline seeded: $($newState.Count) programmes, $openCount currently open (no alerts sent)."
