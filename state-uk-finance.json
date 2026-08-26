@@ -397,9 +397,9 @@
   },
   {
     "id": "dueuynil40",
-    "status": "not-open",
+    "status": "open",
     "company": "Wells Fargo",
-    "name": "EMEA Summer Analyst"
+    "name": "EMEA Banking Summer Analyst"
   },
   {
     "id": "dyyl9ib68p",
@@ -1764,6 +1764,12 @@
     "name": "2027 Summer Internship Programme"
   },
   {
+    "id": "rvz0tvxdnz",
+    "status": "open",
+    "company": "Wells Fargo",
+    "name": "EMEA Commercial Real Estate Summer Analyst"
+  },
+  {
     "id": "rwm4p1g45l",
     "status": "not-open",
     "company": "Isio",
@@ -2128,6 +2134,12 @@
     "status": "not-open",
     "company": "DC Advisory",
     "name": "Summer Analyst Programme 2027"
+  },
+  {
+    "id": "vgoizstq6i",
+    "status": "open",
+    "company": "Wells Fargo",
+    "name": "EMEA Markets Summer Analyst"
   },
   {
     "id": "vilbyy5a0z",
