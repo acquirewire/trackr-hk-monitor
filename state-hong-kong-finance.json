@@ -48,6 +48,12 @@
     "name": "Summer 2027 Analyst Programme"
   },
   {
+    "id": "abqz8fn7t3",
+    "status": "open",
+    "company": "Wells Fargo",
+    "name": "2027 Markets Summer Analyst"
+  },
+  {
     "id": "aqusqao4yx",
     "status": "not-open",
     "company": "American Express",
@@ -445,9 +451,9 @@
   },
   {
     "id": "x0tiwlpaeh",
-    "status": "not-open",
+    "status": "open",
     "company": "Wells Fargo",
-    "name": "2027 Summer Analyst"
+    "name": "2027 Banking Summer Analyst"
   },
   {
     "id": "x2hhrcnosb",
