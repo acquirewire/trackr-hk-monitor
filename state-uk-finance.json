@@ -6,16 +6,82 @@
     "name": "Summer Associate Consultant – 2029 Internship Program"
   },
   {
+    "id": "0raizvznqa",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Commercial & Investment Banking - Sales - Summer Internship"
+  },
+  {
+    "id": "0y83pljr03",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Commercial & Investment Banking - Global Markets - Summer Internship"
+  },
+  {
+    "id": "1d1kwl3s80",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 - Risk - Summer Internship"
+  },
+  {
+    "id": "225glw758z",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Private Fund Advisory Summer Internship Programme"
+  },
+  {
     "id": "36jiyb6sx2",
     "status": "open",
     "company": "AmplifyME",
     "name": "Summer Analyst Training Programme"
   },
   {
+    "id": "3a3cfq50td",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Equities Sales and Trading Summer Internship Programme"
+  },
+  {
+    "id": "3dspc3tigg",
+    "status": "open",
+    "company": "Nomura",
+    "name": "2027 - Summer Internship (Securitised Products and Private Credit Trading / Structuring)"
+  },
+  {
+    "id": "3u0g1uef0a",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 - Corporate Functions - Summer Internship"
+  },
+  {
+    "id": "3yg3c1i7c7",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Private Credit Investment Summer Internship Programme"
+  },
+  {
+    "id": "7hcdw0f751",
+    "status": "open",
+    "company": "Nomura",
+    "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship"
+  },
+  {
+    "id": "8auwmlwada",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": " 2027 Commercial & Investment Banking - Research - Summer Internship"
+  },
+  {
     "id": "8q64c5c67r",
     "status": "open",
     "company": "LionTree",
     "name": "2027 Summer Internship Programme"
+  },
+  {
+    "id": "9yynd1mxmk",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Equity Research Summer Internship Programme"
   },
   {
     "id": "a1g6tsa2mi",
@@ -130,6 +196,12 @@
     "status": "not-open",
     "company": "Insurance Advisory Partners",
     "name": "Investment Banking Intern"
+  },
+  {
+    "id": "avxxt2c2c1",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Asset Management Investments- Summer Internship"
   },
   {
     "id": "axuzqzfnhg",
@@ -258,6 +330,12 @@
     "name": "Junior Investor (Summer 2027 Internship)"
   },
   {
+    "id": "c6b4ad5916",
+    "status": "open",
+    "company": "Nomura",
+    "name": "2027 - Global Markets Digital Office - Summer Internship (Quants & Strats)"
+  },
+  {
     "id": "c7g4fk5rp9",
     "status": "not-open",
     "company": "Dare",
@@ -289,7 +367,7 @@
   },
   {
     "id": "ciol52e7i6",
-    "status": "not-open",
+    "status": "open",
     "company": "Capital Group",
     "name": "CAP Summer Associate - Europe (2027)"
   },
@@ -316,6 +394,12 @@
     "status": "not-open",
     "company": "Temasek",
     "name": "Temasek Summer Associate Programme 2027"
+  },
+  {
+    "id": "cvvyadayzh",
+    "status": "open",
+    "company": "Nomura",
+    "name": "2027 - Investment Banking - Coverage & Advisory - Summer Internship"
   },
   {
     "id": "cxamkqkpx8",
@@ -466,6 +550,12 @@
     "status": "not-open",
     "company": "Proxima",
     "name": "UK Summer Internship 2027"
+  },
+  {
+    "id": "ergfokxpj2",
+    "status": "open",
+    "company": "PJT Partners",
+    "name": "2027 Summer Analyst (Strategic Advisory & Restructuring)"
   },
   {
     "id": "erihfcjatp",
@@ -1123,9 +1213,9 @@
   },
   {
     "id": "lbrom5xar1",
-    "status": "not-open",
+    "status": "open",
     "company": "J.P. Morgan",
-    "name": "2027 Summer Internship Program"
+    "name": "2027 Global Corporate Banking Analyst Program - Summer Internship"
   },
   {
     "id": "lfepu2ecy4",
@@ -1237,7 +1327,7 @@
   },
   {
     "id": "med04p8tyx",
-    "status": "not-open",
+    "status": "open",
     "company": "Greenhill",
     "name": "2027 Summer Internship"
   },
@@ -1258,6 +1348,12 @@
     "status": "not-open",
     "company": "Dow Jones",
     "name": "Summer 2027 Internship"
+  },
+  {
+    "id": "mnxkcd36a3",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Global Private Bank - Investment Solutions Summer Internship"
   },
   {
     "id": "movntocu5j",
@@ -1432,6 +1528,12 @@
     "status": "not-open",
     "company": "Pharus",
     "name": "Investment Banking Summer Analyst - 2027"
+  },
+  {
+    "id": "obqddd0qpj",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Global Investment Banking Analyst Program - Summer Internship"
   },
   {
     "id": "obx1gcj2je",
@@ -1633,9 +1735,9 @@
   },
   {
     "id": "qlvk04173j",
-    "status": "not-open",
+    "status": "open",
     "company": "Nomura",
-    "name": "2027 Summer Internship Programme"
+    "name": "2027 - Investment Banking - Client Financing Solutions - Summer Internship"
   },
   {
     "id": "qq9c7ufyrh",
@@ -2160,6 +2262,12 @@
     "name": "2027 Advisory Summer Analyst Programme"
   },
   {
+    "id": "vmlfofxn5q",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Quant Masters Summer Programme"
+  },
+  {
     "id": "vmoxgl1hqi",
     "status": "not-open",
     "company": "Hamilton Insurance Group",
@@ -2203,9 +2311,9 @@
   },
   {
     "id": "vuog4dn46o",
-    "status": "not-open",
+    "status": "open",
     "company": "PJT Partners",
-    "name": "2027 Summer Intern Analyst"
+    "name": "2027 Summer Analyst (Corporate Rotational)"
   },
   {
     "id": "vvndebzwb5",
@@ -2233,9 +2341,9 @@
   },
   {
     "id": "w2i0kwnbkz",
-    "status": "not-open",
+    "status": "open",
     "company": "Jefferies",
-    "name": "2027 Summer Internship Programme"
+    "name": "2027 Investment Banking Summer Internship Programme"
   },
   {
     "id": "w422v28305",
@@ -2299,7 +2407,7 @@
   },
   {
     "id": "wjpek44jr1",
-    "status": "not-open",
+    "status": "open",
     "company": "McKinsey & Company",
     "name": "Business Analyst Intern"
   },
@@ -2344,6 +2452,12 @@
     "status": "open",
     "company": "SMBC",
     "name": "Summer Intern Programme 2027"
+  },
+  {
+    "id": "xad7q8cjqa",
+    "status": "open",
+    "company": "PJT Partners",
+    "name": "2027 Summer Analyst (PJT Park Hill - Private Capital Solutions)"
   },
   {
     "id": "xakjokmg1n",
@@ -2482,6 +2596,12 @@
     "status": "not-open",
     "company": "Charles River Associates",
     "name": "Intern - Summer 2027"
+  },
+  {
+    "id": "yhv4d2cyag",
+    "status": "open",
+    "company": "J.P. Morgan",
+    "name": "2027 Global Private Bank - Advisor Summer Internship"
   },
   {
     "id": "yi8k8k7xf7",
