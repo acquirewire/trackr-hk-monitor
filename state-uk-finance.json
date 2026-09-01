@@ -138,12 +138,6 @@
     "name": "Summer Internship 2027"
   },
   {
-    "id": "aayfza2mcj",
-    "status": "not-open",
-    "company": "William Blair",
-    "name": "Investment Banking Summer Analyst, Secondary Advisory"
-  },
-  {
     "id": "abmnsbyf12",
     "status": "not-open",
     "company": "National Bank of Canada",
@@ -193,7 +187,7 @@
   },
   {
     "id": "apyw38vww4",
-    "status": "not-open",
+    "status": "open",
     "company": "Tower Research Capital",
     "name": "Quantitative Trader/Researcher Summer Internship 2027"
   },
@@ -949,7 +943,7 @@
   },
   {
     "id": "iir7vv973l",
-    "status": "not-open",
+    "status": "open",
     "company": "William Blair",
     "name": "Investment Banking Summer 2027 Analyst"
   },
@@ -2353,7 +2347,7 @@
   },
   {
     "id": "vscaes1pb4",
-    "status": "not-open",
+    "status": "open",
     "company": "Maven Securities",
     "name": "Trader Summer Internship 2027"
   },
