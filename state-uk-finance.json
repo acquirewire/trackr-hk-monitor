@@ -1332,6 +1332,12 @@
     "name": "Summer Internship Programme 2027"
   },
   {
+    "id": "m04ecmm7nx",
+    "status": "open",
+    "company": "G-Research",
+    "name": "Spring into Quant Finance 2027"
+  },
+  {
     "id": "m175wbwe1c",
     "status": "not-open",
     "company": "Bastion Trading",
@@ -2275,7 +2281,7 @@
   },
   {
     "id": "ver14sozvm",
-    "status": "not-open",
+    "status": "open",
     "company": "Eastdil Secured",
     "name": "2027 Summer Internship"
   },
