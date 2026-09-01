@@ -966,6 +966,12 @@
     "name": "Actuarial Summer Intern (July 2027)"
   },
   {
+    "id": "ioeo5uln8y",
+    "status": "not-open",
+    "company": "Citi",
+    "name": "Investment Banking, Summer Analyst 2027"
+  },
+  {
     "id": "ioh6unf9t7",
     "status": "not-open",
     "company": "Equitix",
@@ -1519,9 +1525,9 @@
   },
   {
     "id": "nws0cqrwfc",
-    "status": "not-open",
+    "status": "open",
     "company": "Citi",
-    "name": "Summer Analyst 2027"
+    "name": "Sales and Trading, Summer Analyst, 2027"
   },
   {
     "id": "nwym67d2by",
