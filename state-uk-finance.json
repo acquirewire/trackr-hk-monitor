@@ -24,6 +24,18 @@
     "name": "2027 - Risk - Summer Internship"
   },
   {
+    "id": "1iww3xckif",
+    "status": "open",
+    "company": "Evercore",
+    "name": "Private Funds Group Summer Internship (2027)"
+  },
+  {
+    "id": "1oy9mpqcc4",
+    "status": "open",
+    "company": "Evercore",
+    "name": "Restructuring Summer Internship (2027)"
+  },
+  {
     "id": "225glw758z",
     "status": "open",
     "company": "Jefferies",
@@ -60,10 +72,28 @@
     "name": "2027 Private Credit Investment Summer Internship Programme"
   },
   {
+    "id": "4b5c8ysadv",
+    "status": "open",
+    "company": "Macquarie Group",
+    "name": "2027 Macquarie Capital Summer Internship Programme"
+  },
+  {
+    "id": "4bw23kdkoy",
+    "status": "not-open",
+    "company": "Deutsche Bank",
+    "name": "Investment Banking Internship Programme 2027"
+  },
+  {
     "id": "7hcdw0f751",
     "status": "open",
     "company": "Nomura",
     "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship"
+  },
+  {
+    "id": "8243194by3",
+    "status": "open",
+    "company": "Evercore",
+    "name": "Private Capital Advisory – GP Advisory Summer Internship"
   },
   {
     "id": "8auwmlwada",
@@ -178,6 +208,12 @@
     "status": "not-open",
     "company": "EQ",
     "name": "Accounting Internship"
+  },
+  {
+    "id": "at7ppeflvq",
+    "status": "open",
+    "company": "Macquarie Group",
+    "name": "2027 Asset Management Summer Internship Programme"
   },
   {
     "id": "atfsqxsv9d",
@@ -439,7 +475,7 @@
   },
   {
     "id": "dfevld4zx3",
-    "status": "not-open",
+    "status": "open",
     "company": "NERA",
     "name": "Summer Internship 2027"
   },
@@ -628,6 +664,12 @@
     "status": "not-open",
     "company": "Atlanta Wealth",
     "name": "Equity Analyst Internship, Asset Management"
+  },
+  {
+    "id": "f9z38d0inb",
+    "status": "open",
+    "company": "BlockTech",
+    "name": "Quantitative Researcher | Internship | Summer '27"
   },
   {
     "id": "fard0ap99i",
@@ -1698,6 +1740,12 @@
     "name": "Quantitative Reseacher - Intern"
   },
   {
+    "id": "q4piys5lsr",
+    "status": "open",
+    "company": "Evercore",
+    "name": "Debt Advisory Summer Internship (2027)"
+  },
+  {
     "id": "q704jptfc9",
     "status": "not-open",
     "company": "Lockton",
@@ -1909,9 +1957,9 @@
   },
   {
     "id": "sb1fvxv3d6",
-    "status": "not-open",
+    "status": "open",
     "company": "Deutsche Bank",
-    "name": "Internship Programme 2027"
+    "name": "Quantitative Internship Programme 2027"
   },
   {
     "id": "sb2qos3wz4",
@@ -1927,7 +1975,7 @@
   },
   {
     "id": "si17jqldqr",
-    "status": "not-open",
+    "status": "open",
     "company": "WTW",
     "name": "2027 Actuarial Consultant Internship Programme"
   },
@@ -2100,6 +2148,12 @@
     "name": "2027 Summer Internship"
   },
   {
+    "id": "ttip3y3fi6",
+    "status": "open",
+    "company": "Macquarie Group",
+    "name": "2027 Commodities and Global Markets Summer Internship Programme"
+  },
+  {
     "id": "tu0w9qalfe",
     "status": "not-open",
     "company": "WeChat Pay",
@@ -2233,9 +2287,9 @@
   },
   {
     "id": "vf402mk2y5",
-    "status": "not-open",
+    "status": "open",
     "company": "DC Advisory",
-    "name": "Summer Analyst Programme 2027"
+    "name": "Summer Intern 2027 Programme"
   },
   {
     "id": "vgoizstq6i",
@@ -2521,9 +2575,9 @@
   },
   {
     "id": "xo0i0vm48f",
-    "status": "not-open",
+    "status": "open",
     "company": "Macquarie Group",
-    "name": "2027 Summer Internship Programme"
+    "name": "2027 Risk Management Group Summer Internship Programme"
   },
   {
     "id": "xol1zhqfwc",
@@ -2640,6 +2694,12 @@
     "name": "Summer Analyst Programme – EQT Real Estate"
   },
   {
+    "id": "ytbxh7ub3q",
+    "status": "open",
+    "company": "Evercore",
+    "name": "RESA Summer Internship (2027)"
+  },
+  {
     "id": "ywd6qq727f",
     "status": "open",
     "company": "CD&R",
@@ -2685,7 +2745,7 @@
     "id": "z8fh9wc9uf",
     "status": "open",
     "company": "Evercore",
-    "name": "Summer Internship (2027)"
+    "name": "M&A Advisory Summer Internship (2027)"
   },
   {
     "id": "zbyismcu8o",
