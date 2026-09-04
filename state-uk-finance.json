@@ -1279,9 +1279,9 @@
   },
   {
     "id": "lhwn2offnc",
-    "status": "not-open",
+    "status": "open",
     "company": "Rothesay",
-    "name": "Internship Programme"
+    "name": "2027 Summer Internship Programme"
   },
   {
     "id": "lk5pk8ey90",
@@ -1690,6 +1690,12 @@
     "status": "not-open",
     "company": "Wintermute",
     "name": "Quant Research Internship (Summer 2027)"
+  },
+  {
+    "id": "pc8s7wde9w",
+    "status": "open",
+    "company": "Man Group",
+    "name": "IDI Summer 2027 Internship"
   },
   {
     "id": "pcef45k85e",
@@ -2752,12 +2758,6 @@
     "status": "not-open",
     "company": "Forvis Mazars",
     "name": "Summer Internship 2027"
-  },
-  {
-    "id": "z3igl8zoku",
-    "status": "not-open",
-    "company": "First Bank of Nigeria",
-    "name": "2027 Summer Internship Programme"
   },
   {
     "id": "z6pc6xn0el",
