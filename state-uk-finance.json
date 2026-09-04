@@ -6,6 +6,12 @@
     "name": "Summer Associate Consultant – 2029 Internship Program"
   },
   {
+    "id": "0ji574xrj5",
+    "status": "open",
+    "company": "Man Group",
+    "name": "2027 Quant Researcher Summer Internship"
+  },
+  {
     "id": "0raizvznqa",
     "status": "open",
     "company": "J.P. Morgan",
@@ -670,6 +676,12 @@
     "status": "not-open",
     "company": "Coinbase",
     "name": "Internal Audit Intern"
+  },
+  {
+    "id": "fcvsiigfi3",
+    "status": "open",
+    "company": "XY Capital",
+    "name": "2027 Summer Internship - Quant Research and Trading"
   },
   {
     "id": "fe2i6kwkvq",
@@ -1645,7 +1657,7 @@
   },
   {
     "id": "oxhgvuijlq",
-    "status": "not-open",
+    "status": "open",
     "company": "Oliver Wyman",
     "name": "Summer Internship 2027"
   },
