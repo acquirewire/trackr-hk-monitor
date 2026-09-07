@@ -42,6 +42,12 @@
     "name": "Restructuring Summer Internship (2027)"
   },
   {
+    "id": "1z0xxvhzcv",
+    "status": "open",
+    "company": "Société Générale",
+    "name": "Global Banking and Advisory 2027 Summer Internship Programme"
+  },
+  {
     "id": "225glw758z",
     "status": "open",
     "company": "Jefferies",
@@ -85,9 +91,27 @@
   },
   {
     "id": "4bw23kdkoy",
-    "status": "not-open",
+    "status": "open",
     "company": "Deutsche Bank",
     "name": "Investment Banking Internship Programme 2027"
+  },
+  {
+    "id": "4fmrbowtr2",
+    "status": "open",
+    "company": "Mizuho",
+    "name": "2027 Global Markets Summer Internship"
+  },
+  {
+    "id": "4kmwvrkm26",
+    "status": "open",
+    "company": "Mizuho",
+    "name": "2027 Banking Summer Internship"
+  },
+  {
+    "id": "661ba2dbyd",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Internal Audit Summer Analyst Programme"
   },
   {
     "id": "7hcdw0f751",
@@ -432,6 +456,12 @@
     "name": "Temasek Summer Associate Programme 2027"
   },
   {
+    "id": "cui3ntc1zz",
+    "status": "open",
+    "company": "Deutsche Bank",
+    "name": "Fixed Income and Currencies Internship Programme 2027"
+  },
+  {
     "id": "cvvyadayzh",
     "status": "open",
     "company": "Nomura",
@@ -535,9 +565,9 @@
   },
   {
     "id": "dzr243u4q0",
-    "status": "not-open",
+    "status": "open",
     "company": "Houlihan Lokey",
-    "name": "Summer Financial Analyst 2027"
+    "name": "2027 Summer Financial Analyst – Capital Solutions"
   },
   {
     "id": "e16v4wdamh",
@@ -598,6 +628,12 @@
     "status": "not-open",
     "company": "Alpha FMC",
     "name": "Summer Diversity Internship 2027"
+  },
+  {
+    "id": "ermb66lsgs",
+    "status": "open",
+    "company": "Mizuho",
+    "name": "2027 Finance Summer Internship"
   },
   {
     "id": "esbb5g26se",
@@ -906,6 +942,12 @@
     "name": "Front Office - Internship"
   },
   {
+    "id": "hxbifu24pu",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Sales & Trading Summer Analyst Programme"
+  },
+  {
     "id": "i5ditgb79q",
     "status": "not-open",
     "company": "Canary Wharf Group",
@@ -949,9 +991,9 @@
   },
   {
     "id": "igzfyg43go",
-    "status": "not-open",
+    "status": "open",
     "company": "Baird",
-    "name": "M&A Summer Internship 2027"
+    "name": "2027 Global Investment Banking - M&A Summer Internship"
   },
   {
     "id": "iir7vv973l",
@@ -1015,9 +1057,9 @@
   },
   {
     "id": "iumphbd6bl",
-    "status": "not-open",
+    "status": "open",
     "company": "Morgan Stanley",
-    "name": "2027 Summer Analyst Programme"
+    "name": "2027 Global Capital Markets Summer Analyst Programme"
   },
   {
     "id": "iyocl5x6ux",
@@ -1234,6 +1276,12 @@
     "status": "not-open",
     "company": "Gleacher Shacklock",
     "name": "Investment Banking Summer Internship 2027"
+  },
+  {
+    "id": "l17ec0kcjp",
+    "status": "open",
+    "company": "Mizuho",
+    "name": "2027 Global Transaction Banking Summer Internship"
   },
   {
     "id": "l28bp19oez",
@@ -1474,6 +1522,12 @@
     "status": "not-open",
     "company": "L.E.K. Consulting",
     "name": "Summer Associate 2027"
+  },
+  {
+    "id": "n9uq59ov0s",
+    "status": "open",
+    "company": "MUFG",
+    "name": "2027 Summer Analyst Programme: Japanese Corporate Banking"
   },
   {
     "id": "na98tftepc",
@@ -1842,6 +1896,12 @@
     "name": "2027 Summer Internship"
   },
   {
+    "id": "qtdo9uqi9e",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Investment Banking Summer Analyst Programme"
+  },
+  {
     "id": "quig4d87tl",
     "status": "not-open",
     "company": "Teneo",
@@ -1909,9 +1969,9 @@
   },
   {
     "id": "rcnjysntuc",
-    "status": "not-open",
+    "status": "open",
     "company": "Mizuho",
-    "name": "Summer Internship"
+    "name": "2027 Risk and Credit Risk Summer Internship"
   },
   {
     "id": "rd3onmzp20",
@@ -1939,9 +1999,9 @@
   },
   {
     "id": "ruduif38s1",
-    "status": "not-open",
+    "status": "open",
     "company": "Société Générale",
-    "name": "2027 Summer Internship Programme"
+    "name": "Global Markets 2027 Summer Internship Programme"
   },
   {
     "id": "rvz0tvxdnz",
@@ -2017,9 +2077,9 @@
   },
   {
     "id": "slqbw22lrj",
-    "status": "not-open",
+    "status": "open",
     "company": "Brevan Howard",
-    "name": "Summer Internship Programme 2027"
+    "name": "2027 Summer Internship Program"
   },
   {
     "id": "solur51h9q",
@@ -2640,10 +2700,22 @@
     "name": "Intern, Investment Management"
   },
   {
+    "id": "xv7rvzmg3x",
+    "status": "open",
+    "company": "Houlihan Lokey",
+    "name": "Summer Financial Analyst 2027 - Financial Restructuring"
+  },
+  {
     "id": "xvndqdfnik",
     "status": "open",
     "company": "Millennium Management",
     "name": "2027 Quant Researcher Intern"
+  },
+  {
+    "id": "xx6gvsqjz8",
+    "status": "open",
+    "company": "MUFG",
+    "name": "2027 Summer Analyst Programme: Internal Audit"
   },
   {
     "id": "xyn3tm5ytg",
@@ -2680,6 +2752,12 @@
     "status": "not-open",
     "company": "Charles River Associates",
     "name": "Intern - Summer 2027"
+  },
+  {
+    "id": "ygixj2sl5h",
+    "status": "open",
+    "company": "Mizuho",
+    "name": "2027 Operations Summer Internship"
   },
   {
     "id": "yhv4d2cyag",
@@ -2766,6 +2844,12 @@
     "name": "Summer Internship 2027"
   },
   {
+    "id": "z7fb3bv8pk",
+    "status": "open",
+    "company": "MUFG",
+    "name": "2027 Summer Analyst Programme: Capital Markets"
+  },
+  {
     "id": "z8fh9wc9uf",
     "status": "open",
     "company": "Evercore",
@@ -2833,14 +2917,14 @@
   },
   {
     "id": "zvz2wbd9sk",
-    "status": "not-open",
+    "status": "open",
     "company": "InfraRed Capital Partners",
-    "name": "2027 Summer Analyst"
+    "name": "Investments Summer Analyst Internship 2027"
   },
   {
     "id": "zzm581e112",
-    "status": "not-open",
+    "status": "open",
     "company": "MUFG",
-    "name": "MUFG 2027 Summer Internship"
+    "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking"
   }
 ]
