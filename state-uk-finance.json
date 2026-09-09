@@ -108,6 +108,12 @@
     "name": "2027 Banking Summer Internship"
   },
   {
+    "id": "5abmj8esbp",
+    "status": "open",
+    "company": "MUFG",
+    "name": "2027 Summer Analyst Programme: Structured Trading Group"
+  },
+  {
     "id": "661ba2dbyd",
     "status": "open",
     "company": "Morgan Stanley",
@@ -457,9 +463,9 @@
   },
   {
     "id": "ctm0in068j",
-    "status": "not-open",
+    "status": "open",
     "company": "Temasek",
-    "name": "Temasek Summer Associate Programme 2027"
+    "name": "2027 Summer Internship Programme"
   },
   {
     "id": "cui3ntc1zz",
@@ -1057,7 +1063,7 @@
   },
   {
     "id": "itufkflzif",
-    "status": "not-open",
+    "status": "open",
     "company": "Lincoln International",
     "name": "UK Summer Internship Programme 2027"
   },
@@ -2134,6 +2140,12 @@
     "status": "not-open",
     "company": "BMLL",
     "name": "Junior Quantitative Analyst Internship - Summer 2027"
+  },
+  {
+    "id": "sy130gmptk",
+    "status": "open",
+    "company": "MUFG",
+    "name": "2027 Summer Analyst Programme: Credit Sales and Trading"
   },
   {
     "id": "sy6ujhpmmm",
