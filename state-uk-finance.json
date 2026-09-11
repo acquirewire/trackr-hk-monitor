@@ -366,10 +366,22 @@
     "name": "Insight Penultimate Year Talent"
   },
   {
+    "id": "bxt4jvkxmz",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Real Estate Capital Partners"
+  },
+  {
     "id": "byxw8zga6c",
     "status": "not-open",
     "company": "EY",
     "name": "2027 Summer Internship"
+  },
+  {
+    "id": "c0sc7rbux1",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Equity Research"
   },
   {
     "id": "c0wmvj8qon",
@@ -522,6 +534,12 @@
     "name": "Summer Internship 2027"
   },
   {
+    "id": "dlmdvdl1hi",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Finance"
+  },
+  {
     "id": "dn9h185llq",
     "status": "not-open",
     "company": "Aquatic Capital Management",
@@ -613,9 +631,9 @@
   },
   {
     "id": "ea0zz8tiuw",
-    "status": "not-open",
+    "status": "open",
     "company": "RBC Capital Markets",
-    "name": "2027 Summer Analyst"
+    "name": "2027 Summer Analyst - Corporate Banking"
   },
   {
     "id": "ebleh9fb9z",
@@ -706,6 +724,12 @@
     "status": "not-open",
     "company": "Interpath Advisory",
     "name": "Intern Analyst"
+  },
+  {
+    "id": "f6gsalmo9g",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Global Investment Banking"
   },
   {
     "id": "f8uxqtk1jy",
@@ -2302,6 +2326,12 @@
     "status": "open",
     "company": "Capula Investment Management",
     "name": "Trading & Research Summer Internship 2027"
+  },
+  {
+    "id": "u8ql9ljyct",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Global Markets"
   },
   {
     "id": "u90ffc8sht",
