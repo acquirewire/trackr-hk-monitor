@@ -150,6 +150,12 @@
     "name": "2027 Summer Internship Programme"
   },
   {
+    "id": "8uesjvl1d6",
+    "status": "open",
+    "company": "BRG",
+    "name": "Intern - Economics, Disputes and Investigations"
+  },
+  {
     "id": "9yynd1mxmk",
     "status": "open",
     "company": "Jefferies",
@@ -565,7 +571,7 @@
   },
   {
     "id": "du29tzlzou",
-    "status": "not-open",
+    "status": "open",
     "company": "London Stock Exchange Group",
     "name": "Summer Internship (2027)"
   },
@@ -1519,7 +1525,7 @@
   },
   {
     "id": "mqitm8a95w",
-    "status": "closed",
+    "status": "open",
     "company": "Fidelity Investments",
     "name": "Summer 2027 Equity Research Associate Intern"
   },

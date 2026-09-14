@@ -12,6 +12,12 @@
     "name": "Quantitative Researcher Intern, Bachelor"
   },
   {
+    "id": "3qlcvnwrjq",
+    "status": "open",
+    "company": "MUFG",
+    "name": "Summer Internship Programme 2027 – Global Markets"
+  },
+  {
     "id": "56cpcz6q62",
     "status": "closed",
     "company": "Fidelity Investments",
@@ -52,6 +58,12 @@
     "status": "not-open",
     "company": "Man Group",
     "name": "Quantitative Research Intern - Specialist Equities"
+  },
+  {
+    "id": "9ncm2tia2d",
+    "status": "open",
+    "company": "MUFG",
+    "name": "Summer Internship Programme 2027 – Global Compliance"
   },
   {
     "id": "a29pqcbfq9",
@@ -150,6 +162,12 @@
     "name": "2027 Summer Analyst Program"
   },
   {
+    "id": "ez44uho8w6",
+    "status": "open",
+    "company": "MUFG",
+    "name": "Summer Internship Programme 2027 – Global Operations"
+  },
+  {
     "id": "fatnkyy0ta",
     "status": "not-open",
     "company": "DBS Bank",
@@ -241,9 +259,9 @@
   },
   {
     "id": "jraraofh1x",
-    "status": "not-open",
+    "status": "open",
     "company": "MUFG",
-    "name": "Summer Internship Programme 2027"
+    "name": "Summer Internship Programme 2027 – Global Corporate Banking"
   },
   {
     "id": "jti6vs75mv",
@@ -433,7 +451,7 @@
   },
   {
     "id": "tx3gfh6gkh",
-    "status": "open",
+    "status": "closed",
     "company": "Teneo",
     "name": "Internship, Financial Advisory"
   },
@@ -511,7 +529,7 @@
   },
   {
     "id": "ycyfbtrmuf",
-    "status": "open",
+    "status": "closed",
     "company": "Balyasny Asset Management",
     "name": "Quantitative Researcher (Summer Internship)"
   },
