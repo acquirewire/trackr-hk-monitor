@@ -54,6 +54,12 @@
     "name": "2027 Private Fund Advisory Summer Internship Programme"
   },
   {
+    "id": "25b9jhq0bx",
+    "status": "open",
+    "company": "Fidelity International",
+    "name": "Sustainable Investing Summer Internship 2027"
+  },
+  {
     "id": "36jiyb6sx2",
     "status": "open",
     "company": "AmplifyME",
@@ -120,6 +126,12 @@
     "name": "2027 Summer Analyst Programme: Structured Trading Group"
   },
   {
+    "id": "5oh75hwrn3",
+    "status": "open",
+    "company": "Fidelity International",
+    "name": "Fixed Income Summer Internship 2027"
+  },
+  {
     "id": "661ba2dbyd",
     "status": "open",
     "company": "Morgan Stanley",
@@ -148,6 +160,12 @@
     "status": "open",
     "company": "J.P. Morgan",
     "name": " 2027 Commercial & Investment Banking - Research - Summer Internship"
+  },
+  {
+    "id": "8l1zjq8arp",
+    "status": "open",
+    "company": "Fidelity International",
+    "name": "Equity Research Summer Internship 2027"
   },
   {
     "id": "8q64c5c67r",
@@ -954,6 +972,12 @@
     "name": "Intern Programme 2027"
   },
   {
+    "id": "hd6u6iysh4",
+    "status": "open",
+    "company": "Citi",
+    "name": "Commercial Banking, Summer Analyst, 2027"
+  },
+  {
     "id": "hdg6u6fiw5",
     "status": "not-open",
     "company": "Ithaca Energy",
@@ -1489,9 +1513,9 @@
   },
   {
     "id": "maqfd0rg5r",
-    "status": "not-open",
+    "status": "open",
     "company": "American Express",
-    "name": "Campus - Internship Programme"
+    "name": "Campus - Internship Programme - 2027"
   },
   {
     "id": "med04p8tyx",
@@ -2407,9 +2431,9 @@
   },
   {
     "id": "usumgpqdd9",
-    "status": "not-open",
+    "status": "open",
     "company": "Fidelity International",
-    "name": "Summer Internship Programme 2027"
+    "name": "Investment Directing Summer Internship 2027"
   },
   {
     "id": "uxbflsvgvz",
@@ -2422,6 +2446,12 @@
     "status": "not-open",
     "company": "Arena Investors",
     "name": "2027 Summer Investment Analyst"
+  },
+  {
+    "id": "v3ph64x7pq",
+    "status": "open",
+    "company": "Fidelity International",
+    "name": "Multi Asset Summer Internship 2027"
   },
   {
     "id": "v6k3opwunl",
