@@ -408,6 +408,12 @@
     "name": "Insight Penultimate Year Talent"
   },
   {
+    "id": "btqjof80vq",
+    "status": "open",
+    "company": "CIBC",
+    "name": "Global Transaction Banking Summer Intern 2027"
+  },
+  {
     "id": "bxt4jvkxmz",
     "status": "open",
     "company": "RBC Capital Markets",
@@ -1806,6 +1812,12 @@
     "name": "Structured Credit Internship"
   },
   {
+    "id": "ot9g6wi5vq",
+    "status": "open",
+    "company": "CIBC",
+    "name": "Investment Banking Summer Intern 2027"
+  },
+  {
     "id": "ov9rqhadd8",
     "status": "open",
     "company": "Barclays",
@@ -1909,9 +1921,9 @@
   },
   {
     "id": "pv97z8l0ef",
-    "status": "not-open",
+    "status": "open",
     "company": "CIBC",
-    "name": "Summer Intern 2027"
+    "name": "Global Markets Summer Intern 2027"
   },
   {
     "id": "pvn1wcbw3l",
