@@ -1237,7 +1237,7 @@
   },
   {
     "id": "jvu629ro7q",
-    "status": "open",
+    "status": "closed",
     "company": "Inverto",
     "name": "Summer Internship: Procurement & Supply Chain Consulting"
   },
@@ -1621,7 +1621,7 @@
   },
   {
     "id": "n7rgnjtq94",
-    "status": "not-open",
+    "status": "open",
     "company": "L.E.K. Consulting",
     "name": "Summer Associate 2027"
   },
@@ -1633,7 +1633,7 @@
   },
   {
     "id": "na98tftepc",
-    "status": "not-open",
+    "status": "open",
     "company": "Johnston Carmichael",
     "name": "Summer Internship - 2027"
   },
@@ -2125,9 +2125,9 @@
   },
   {
     "id": "rwm4p1g45l",
-    "status": "not-open",
+    "status": "open",
     "company": "Isio",
-    "name": "2027 Internship Programme"
+    "name": "Internship Programme - Summer 2027"
   },
   {
     "id": "s07a4s0rpi",
