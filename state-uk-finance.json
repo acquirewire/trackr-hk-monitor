@@ -1056,6 +1056,12 @@
     "name": "2027 Summer Internship"
   },
   {
+    "id": "i9me7pn62l",
+    "status": "open",
+    "company": "Harrison Street",
+    "name": "Summer 2027 Asset Management Intern"
+  },
+  {
     "id": "ibe2ewlars",
     "status": "not-open",
     "company": "Affinius Capital",
@@ -1783,9 +1789,9 @@
   },
   {
     "id": "ofqa5h2glb",
-    "status": "not-open",
+    "status": "open",
     "company": "Harrison Street",
-    "name": "Summer 2027 Intern"
+    "name": "Summer 2027 Transactions Intern"
   },
   {
     "id": "oh7y43zboi",
