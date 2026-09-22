@@ -6,6 +6,12 @@
     "name": "2027 Non-Investment Summer Intern"
   },
   {
+    "id": "2fvw0ash8c",
+    "status": "open",
+    "company": "Polymer Capital",
+    "name": "2027 Summer Intern, Compliance"
+  },
+  {
     "id": "39ngu7aeha",
     "status": "open",
     "company": "Tower Research Capital",
@@ -148,6 +154,12 @@
     "status": "not-open",
     "company": "AlphaSights",
     "name": "2027 Summer Internship"
+  },
+  {
+    "id": "e5bfkjz1kh",
+    "status": "open",
+    "company": "Polymer Capital",
+    "name": "2027 Summer Intern, Investment"
   },
   {
     "id": "e7y2r44j5b",
@@ -301,9 +313,9 @@
   },
   {
     "id": "lkbqjutf8o",
-    "status": "not-open",
+    "status": "open",
     "company": "Polymer Capital",
-    "name": "2027 Summer Intern"
+    "name": "2027 Summer Intern, Middle Office"
   },
   {
     "id": "m3yn16ovnx",
@@ -448,6 +460,12 @@
     "status": "open",
     "company": "Capula Investment Management",
     "name": "Trading and Research Summer Internship 2027"
+  },
+  {
+    "id": "simlc20qjt",
+    "status": "open",
+    "company": "Polymer Capital",
+    "name": "2027 Summer Intern, Finance"
   },
   {
     "id": "tx3gfh6gkh",
