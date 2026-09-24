@@ -402,6 +402,12 @@
     "name": "Actuarial Intern"
   },
   {
+    "id": "bnq8sc9w6e",
+    "status": "open",
+    "company": "Brevan Howard",
+    "name": "2027 Summer Internship Program - Systematic Trading"
+  },
+  {
     "id": "bs8nsgxgt2",
     "status": "not-open",
     "company": "AIG",
@@ -1458,6 +1464,12 @@
     "name": "Student Analyst – Investment Technology, Real Estate (Part-time)"
   },
   {
+    "id": "llcta31b4d",
+    "status": "open",
+    "company": "Citi",
+    "name": "Global Wealth, Summer Analyst, 2027"
+  },
+  {
     "id": "lnamuraem2",
     "status": "not-open",
     "company": "Guidehouse",
@@ -2223,7 +2235,7 @@
     "id": "slqbw22lrj",
     "status": "open",
     "company": "Brevan Howard",
-    "name": "2027 Summer Internship Program"
+    "name": "2027 Summer Internship Program - Trading"
   },
   {
     "id": "solur51h9q",
