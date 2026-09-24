@@ -120,6 +120,12 @@
     "name": "2027 Global Markets Summer Internship"
   },
   {
+    "id": "4gf2ipqarh",
+    "status": "open",
+    "company": "BDO Global",
+    "name": "2027 Audit Summer Internship Programme"
+  },
+  {
     "id": "4kmwvrkm26",
     "status": "open",
     "company": "Mizuho",
@@ -364,6 +370,12 @@
     "status": "not-open",
     "company": "Macro Hive",
     "name": "2027 Summer Internship – Sales & Trading"
+  },
+  {
+    "id": "bcjx27rls5",
+    "status": "open",
+    "company": "BDO Global",
+    "name": "2027 Tax Summer Internship Programme"
   },
   {
     "id": "bd2myaekvy",
@@ -2371,9 +2383,9 @@
   },
   {
     "id": "trx5j32l37",
-    "status": "not-open",
+    "status": "open",
     "company": "BDO Global",
-    "name": "2027 Summer Internship Programme"
+    "name": "2027 Actuarial Summer Internship Programme"
   },
   {
     "id": "tsta2emevr",
