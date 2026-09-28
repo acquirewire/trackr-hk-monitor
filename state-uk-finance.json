@@ -102,6 +102,18 @@
     "name": "2027 Private Credit Investment Summer Internship Programme"
   },
   {
+    "id": "3z83ta3op8",
+    "status": "open",
+    "company": "NatWest Markets",
+    "name": "NatWest Markets - Front Office - Internship"
+  },
+  {
+    "id": "404pdl68bz",
+    "status": "open",
+    "company": "TD Securities",
+    "name": "2027 Summer Internship - Investment Banking"
+  },
+  {
     "id": "4b5c8ysadv",
     "status": "open",
     "company": "Macquarie Group",
@@ -258,6 +270,12 @@
     "name": "Private Equity Spring Insight 2027"
   },
   {
+    "id": "afawr4vk5z",
+    "status": "open",
+    "company": "TD Securities",
+    "name": "2027 Summer Internship – Debt Capital Markets"
+  },
+  {
     "id": "aiab45uqv1",
     "status": "not-open",
     "company": "Schonfeld",
@@ -354,6 +372,12 @@
     "name": "Summer Internship"
   },
   {
+    "id": "b685b4st7k",
+    "status": "open",
+    "company": "NatWest Markets",
+    "name": "Corporate and Institutional Banking - Internship"
+  },
+  {
     "id": "b6p937hxf9",
     "status": "not-open",
     "company": "PGIM",
@@ -409,7 +433,7 @@
   },
   {
     "id": "bs8nsgxgt2",
-    "status": "not-open",
+    "status": "open",
     "company": "AIG",
     "name": "2027 Summer Internship"
   },
@@ -540,6 +564,12 @@
     "name": "2027 Analytics & Sales Summer Internship"
   },
   {
+    "id": "cneoio6buo",
+    "status": "open",
+    "company": "TD Securities",
+    "name": "2027 Summer Internship – Global Markets"
+  },
+  {
     "id": "ctm0in068j",
     "status": "open",
     "company": "Temasek",
@@ -568,6 +598,12 @@
     "status": "not-open",
     "company": "Grant Thornton",
     "name": "Internship Programme (Summer 2027)"
+  },
+  {
+    "id": "d52bzj049j",
+    "status": "open",
+    "company": "NatWest Markets",
+    "name": "NatWest Markets - Quantitative Analytics - Internship"
   },
   {
     "id": "d54muvlsjk",
@@ -1045,9 +1081,9 @@
   },
   {
     "id": "hx532hd8cw",
-    "status": "not-open",
+    "status": "open",
     "company": "NatWest Markets",
-    "name": "Front Office - Internship"
+    "name": "Commercial Banking - Internship"
   },
   {
     "id": "hxbifu24pu",
@@ -1279,9 +1315,9 @@
   },
   {
     "id": "jyb7ovz5je",
-    "status": "not-open",
+    "status": "open",
     "company": "TD Securities",
-    "name": "2027 Summer Internship Programme"
+    "name": "2027 Summer Internship – Corporate Banking"
   },
   {
     "id": "k1bbbdj4vb",
@@ -1675,9 +1711,9 @@
   },
   {
     "id": "nges4j2ss5",
-    "status": "not-open",
+    "status": "open",
     "company": "Roland Berger",
-    "name": "Junior Consultant - Summer Internship 2027"
+    "name": "Junior Consultant Summer Internship 2027"
   },
   {
     "id": "ngndwrip8r",
@@ -2688,6 +2724,12 @@
     "name": "Lendable"
   },
   {
+    "id": "w9j527id9r",
+    "status": "open",
+    "company": "NatWest Markets",
+    "name": "Wealth Management - Internship"
+  },
+  {
     "id": "wan7ar5jyb",
     "status": "open",
     "company": "Hudson River Trading",
@@ -2908,6 +2950,12 @@
     "status": "not-open",
     "company": "Cboe Global Markets",
     "name": "Quantitative Analytics Intern"
+  },
+  {
+    "id": "y22habrfi1",
+    "status": "open",
+    "company": "NatWest Markets",
+    "name": "Economic Crime - Internship"
   },
   {
     "id": "y3j1tl8p6b",
