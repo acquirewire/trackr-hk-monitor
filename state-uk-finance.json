@@ -150,6 +150,12 @@
     "name": "2027 Banking Summer Internship"
   },
   {
+    "id": "4ux2aie1t3",
+    "status": "open",
+    "company": "Man Group",
+    "name": "Investment Risk 2027 Summer Internship"
+  },
+  {
     "id": "5abmj8esbp",
     "status": "open",
     "company": "MUFG",
@@ -1704,6 +1710,12 @@
     "name": "Quant Internship 2027"
   },
   {
+    "id": "n7h54udm76",
+    "status": "open",
+    "company": "Longspur Capital",
+    "name": "2027 Summer Intern, Corporate Finance"
+  },
+  {
     "id": "n7rgnjtq94",
     "status": "open",
     "company": "L.E.K. Consulting",
@@ -2809,7 +2821,7 @@
   },
   {
     "id": "wzjjzgbnxs",
-    "status": "not-open",
+    "status": "open",
     "company": "Norges Bank",
     "name": "Summer Internship 2027"
   },
