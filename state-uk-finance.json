@@ -361,9 +361,9 @@
   },
   {
     "id": "axuzqzfnhg",
-    "status": "not-open",
+    "status": "open",
     "company": "Verition Fund Management",
-    "name": "2027 Summer Internship"
+    "name": "2027 Investment Internship"
   },
   {
     "id": "azkakpq5av",
@@ -1435,9 +1435,9 @@
   },
   {
     "id": "koc5rdttpk",
-    "status": "not-open",
+    "status": "open",
     "company": "Lazard Asset Management",
-    "name": "2027 Summer Internship"
+    "name": "2027 Equity Research Internship"
   },
   {
     "id": "krhnmlit2u",
@@ -1524,6 +1524,12 @@
     "name": "Student Analyst – Investment Technology, Real Estate (Part-time)"
   },
   {
+    "id": "lkzocwvnfs",
+    "status": "open",
+    "company": "Lazard Asset Management",
+    "name": "2027 Sales & Marketing Internship"
+  },
+  {
     "id": "llcta31b4d",
     "status": "open",
     "company": "Citi",
@@ -1555,9 +1561,9 @@
   },
   {
     "id": "lqf7umgi4m",
-    "status": "not-open",
+    "status": "open",
     "company": "Balyasny Asset Management",
-    "name": "Quantitative Analyst – Macro & Commodities (Summer Internship)"
+    "name": "Quantitative Researcher - Quantitative Strategies (Summer Internship)"
   },
   {
     "id": "lqy9sbesnd",
