@@ -66,6 +66,12 @@
     "name": "2027 Spring Insight Programme"
   },
   {
+    "id": "34e67xrca3",
+    "status": "open",
+    "company": "Deloitte",
+    "name": "2027 Summer Vacation Scheme - Audit & Assurance"
+  },
+  {
     "id": "36jiyb6sx2",
     "status": "open",
     "company": "AmplifyME",
@@ -870,6 +876,12 @@
     "name": "Underwriting Assistant Intern"
   },
   {
+    "id": "fgvptgvhtm",
+    "status": "open",
+    "company": "Deloitte",
+    "name": "2027 Summer Vacation Scheme - Tax Consulting"
+  },
+  {
     "id": "fh7e9eki8n",
     "status": "not-open",
     "company": "Azets",
@@ -997,9 +1009,9 @@
   },
   {
     "id": "gp1wqbnqpr",
-    "status": "not-open",
+    "status": "open",
     "company": "Deloitte",
-    "name": "Summer Vacation Scheme"
+    "name": "2027 Summer Vacation Scheme - Actuarial Insurance"
   },
   {
     "id": "gr8jadtco5",
