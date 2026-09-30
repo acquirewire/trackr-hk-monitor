@@ -253,9 +253,9 @@
   },
   {
     "id": "a708ak3kpa",
-    "status": "not-open",
+    "status": "open",
     "company": "PwC",
-    "name": "Summer Internship 2027"
+    "name": "Summer Internship - Audit, Accounting, Tax and Finance"
   },
   {
     "id": "abmnsbyf12",
@@ -2308,6 +2308,12 @@
     "status": "open",
     "company": "Lazard",
     "name": "2027 Summer Internship"
+  },
+  {
+    "id": "slicg0m3ou",
+    "status": "open",
+    "company": "PwC",
+    "name": "Summer Internship - Advisory and Consulting"
   },
   {
     "id": "slqbw22lrj",
