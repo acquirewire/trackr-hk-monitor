@@ -156,6 +156,12 @@
     "name": "2027 Banking Summer Internship"
   },
   {
+    "id": "4lr3wihhaf",
+    "status": "open",
+    "company": "Schonfeld",
+    "name": "2027 Risk Analyst (DMFI) Intern"
+  },
+  {
     "id": "4ux2aie1t3",
     "status": "open",
     "company": "Man Group",
@@ -319,9 +325,9 @@
   },
   {
     "id": "aiab45uqv1",
-    "status": "not-open",
+    "status": "open",
     "company": "Schonfeld",
-    "name": "2027 Summer Intern"
+    "name": "2027 Equity Middle Office Intern"
   },
   {
     "id": "akn7aqzxhe",
@@ -1048,6 +1054,12 @@
     "status": "closed",
     "company": "EDF Trading",
     "name": "Summer Internship"
+  },
+  {
+    "id": "gu5ci71rq9",
+    "status": "open",
+    "company": "Schonfeld",
+    "name": "2027 DMFI Quant Research Intern"
   },
   {
     "id": "gzbfggud2m",
