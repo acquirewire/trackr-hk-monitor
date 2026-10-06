@@ -132,6 +132,12 @@
     "name": "2027 Summer Internship - Investment Banking"
   },
   {
+    "id": "4am31chlk8",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Non-Financial Risk Summer Analyst Programme"
+  },
+  {
     "id": "4b5c8ysadv",
     "status": "open",
     "company": "Macquarie Group",
@@ -196,6 +202,12 @@
     "status": "open",
     "company": "Citi",
     "name": "Services, Summer Analyst, 2027"
+  },
+  {
+    "id": "63al2mhfvv",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Global Sales & Marketing Summer Analyst Programme"
   },
   {
     "id": "661ba2dbyd",
@@ -684,6 +696,12 @@
     "name": "Investment Banking Internship 2027"
   },
   {
+    "id": "db6y4foxhc",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Operations Summer Analyst Programme"
+  },
+  {
     "id": "dcglidzkau",
     "status": "not-open",
     "company": "Turner & Townsend",
@@ -1032,6 +1050,12 @@
     "name": "Summer Intern 2027"
   },
   {
+    "id": "ge9h7i6nnq",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Finance Summer Analyst Programme"
+  },
+  {
     "id": "gfgk161pkv",
     "status": "not-open",
     "company": "W. P. Carey",
@@ -1201,7 +1225,7 @@
   },
   {
     "id": "ibe2ewlars",
-    "status": "open",
+    "status": "closed",
     "company": "Affinius Capital",
     "name": "2027 Summer Credit Investments Intern"
   },
@@ -1279,7 +1303,7 @@
   },
   {
     "id": "iphvx1ttlp",
-    "status": "not-open",
+    "status": "open",
     "company": "Sixth Street",
     "name": "2027 Summer Internship Program - UK Investing"
   },
