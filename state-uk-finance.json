@@ -139,7 +139,7 @@
   },
   {
     "id": "4fmrbowtr2",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Global Markets Summer Internship"
   },
@@ -151,7 +151,7 @@
   },
   {
     "id": "4kmwvrkm26",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Banking Summer Internship"
   },
@@ -202,6 +202,12 @@
     "status": "open",
     "company": "Deutsche Bank",
     "name": "Investment Banking (UK Coverage) Internship Programme"
+  },
+  {
+    "id": "7emdlydj15",
+    "status": "open",
+    "company": "LCP",
+    "name": "Insurance Consulting - Summer Internship 2027"
   },
   {
     "id": "7hcdw0f751",
@@ -811,7 +817,7 @@
   },
   {
     "id": "ermb66lsgs",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Finance Summer Internship"
   },
@@ -1003,7 +1009,7 @@
   },
   {
     "id": "gc9gpn82zu",
-    "status": "open",
+    "status": "closed",
     "company": "RWE",
     "name": "Women in Trading Summer Internship Programme"
   },
@@ -1222,6 +1228,12 @@
     "status": "not-open",
     "company": "Everest",
     "name": "2027 Underwriting Internship Programme Scheme"
+  },
+  {
+    "id": "in27izy2bn",
+    "status": "open",
+    "company": "Jefferies",
+    "name": "2027 Asset Management Summer Internship Programme"
   },
   {
     "id": "inqmkxkwxu",
@@ -1519,7 +1531,7 @@
   },
   {
     "id": "l17ec0kcjp",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Global Transaction Banking Summer Internship"
   },
@@ -2095,7 +2107,7 @@
   },
   {
     "id": "pu71fibo0k",
-    "status": "open",
+    "status": "closed",
     "company": "CIBC",
     "name": "Corporate Banking Summer Intern 2027"
   },
@@ -2176,6 +2188,12 @@
     "status": "closed",
     "company": "Alantra",
     "name": "FIG Summer Intern"
+  },
+  {
+    "id": "qh022ny0cz",
+    "status": "open",
+    "company": "LCP",
+    "name": "nvestment Consulting - Summer Internship 2027"
   },
   {
     "id": "qkcvypi1yz",
@@ -2299,7 +2317,7 @@
   },
   {
     "id": "rcnjysntuc",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Risk and Credit Risk Summer Internship"
   },
@@ -2326,6 +2344,12 @@
     "status": "not-open",
     "company": "Marsh McLennan",
     "name": "Summer Internship 2027"
+  },
+  {
+    "id": "rsz7tz9ngy",
+    "status": "open",
+    "company": "LCP",
+    "name": "Pensions Management Consulting - Summer Internship 2027"
   },
   {
     "id": "ruduif38s1",
@@ -2646,6 +2670,12 @@
     "name": "Finance Summer Internship"
   },
   {
+    "id": "u93cajpqae",
+    "status": "open",
+    "company": "LCP",
+    "name": "Pensions Actuarial Consulting - Summer Internship 2027"
+  },
+  {
     "id": "ua2s6zlfxd",
     "status": "not-open",
     "company": "MKI Global Partners",
@@ -2778,6 +2808,12 @@
     "name": "2027 Advisory Summer Analyst Programme"
   },
   {
+    "id": "vjg4dlim8o",
+    "status": "open",
+    "company": "LCP",
+    "name": "DC Investment & Governance - Summer Internship 2027"
+  },
+  {
     "id": "vmlfofxn5q",
     "status": "open",
     "company": "Jefferies",
@@ -2899,9 +2935,9 @@
   },
   {
     "id": "wdodi1co85",
-    "status": "not-open",
+    "status": "open",
     "company": "LCP",
-    "name": "Consulting - Summer Internship 2027"
+    "name": "Energy Power Consulting - Summer Internship 2027"
   },
   {
     "id": "we02sc45ng",
@@ -3007,9 +3043,9 @@
   },
   {
     "id": "xfyqgkgvqu",
-    "status": "not-open",
+    "status": "open",
     "company": "Scotiabank",
-    "name": "2027 UK Summer Internship"
+    "name": "2027 Summer Internship"
   },
   {
     "id": "xiil4fa6jd",
@@ -3139,7 +3175,7 @@
   },
   {
     "id": "ygixj2sl5h",
-    "status": "open",
+    "status": "closed",
     "company": "Mizuho",
     "name": "2027 Operations Summer Internship"
   },
