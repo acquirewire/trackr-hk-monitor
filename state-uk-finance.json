@@ -60,6 +60,12 @@
     "name": "2027 Private Fund Advisory Summer Internship Programme"
   },
   {
+    "id": "248wrwzguu",
+    "status": "open",
+    "company": "Royal London",
+    "name": "2027 Summer Internship"
+  },
+  {
     "id": "25b9jhq0bx",
     "status": "open",
     "company": "Fidelity International",
@@ -244,6 +250,12 @@
     "status": "open",
     "company": "BRG",
     "name": "Intern - Economics, Disputes and Investigations"
+  },
+  {
+    "id": "9bsigfoqgo",
+    "status": "open",
+    "company": "Deutsche Bank",
+    "name": "Corporate Banking Internship Programme 2027"
   },
   {
     "id": "9j4bqbdtxx",
@@ -433,9 +445,9 @@
   },
   {
     "id": "b6p937hxf9",
-    "status": "not-open",
+    "status": "open",
     "company": "PGIM",
-    "name": "Investment Analyst Intern"
+    "name": "PGIM Institutional Client Group | 2027 Summer Internship"
   },
   {
     "id": "b9tvd29igh",
@@ -2736,6 +2748,12 @@
     "name": "Investment Directing Summer Internship 2027"
   },
   {
+    "id": "uw07rurgje",
+    "status": "open",
+    "company": "Kroll",
+    "name": "Mergers & Acquisitions Intern"
+  },
+  {
     "id": "uxbflsvgvz",
     "status": "not-open",
     "company": "Leerink Partners",
@@ -2896,6 +2914,12 @@
     "status": "open",
     "company": "Jefferies",
     "name": "2027 Investment Banking Summer Internship Programme"
+  },
+  {
+    "id": "w3d9mf6zvn",
+    "status": "open",
+    "company": "Deutsche Bank",
+    "name": "Management Consulting Internship Programme 2027"
   },
   {
     "id": "w422v28305",
@@ -3198,6 +3222,12 @@
     "name": "Actuarial Internship"
   },
   {
+    "id": "ymg4ypar8f",
+    "status": "open",
+    "company": "Oxford Properties Group",
+    "name": "Intern, Real Estate Investments"
+  },
+  {
     "id": "ymu5cwti74",
     "status": "not-open",
     "company": "AlphaSights",
@@ -3352,5 +3382,11 @@
     "status": "open",
     "company": "MUFG",
     "name": "2027 Summer Analyst Programme: Global Corporate Investment Banking"
+  },
+  {
+    "id": "zzvg0o6nid",
+    "status": "open",
+    "company": "Fidelity International",
+    "name": "Sales & Marketing Summer Internship 2027"
   }
 ]
