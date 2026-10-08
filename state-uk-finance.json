@@ -768,6 +768,12 @@
     "name": "EMEA Banking Summer Analyst"
   },
   {
+    "id": "dxcyzc4uhi",
+    "status": "open",
+    "company": "Verition Fund Management",
+    "name": "2027 Platform Internship, Non-Investment"
+  },
+  {
     "id": "dyyl9ib68p",
     "status": "not-open",
     "company": "Korn Ferry",
@@ -1150,6 +1156,12 @@
     "status": "open",
     "company": "Citi",
     "name": "Commercial Banking, Summer Analyst, 2027"
+  },
+  {
+    "id": "hddgjldx6b",
+    "status": "open",
+    "company": "Harrison Street",
+    "name": "Summer 2027 Investor Solutions Group Intern"
   },
   {
     "id": "hdg6u6fiw5",
@@ -3037,7 +3049,7 @@
   },
   {
     "id": "x3ops1ftx9",
-    "status": "not-open",
+    "status": "open",
     "company": "Flow Traders",
     "name": "Summer Trading Internship"
   },
@@ -3355,9 +3367,9 @@
   },
   {
     "id": "zld4199meu",
-    "status": "not-open",
+    "status": "open",
     "company": "BMO Capital Markets",
-    "name": "2027 Investment Banking Summer Analyst"
+    "name": "2027 Investment Banking Summer Intern"
   },
   {
     "id": "zm17cu7kxl",
