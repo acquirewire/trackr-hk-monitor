@@ -2916,6 +2916,12 @@
     "name": "Trader Summer Internship 2027"
   },
   {
+    "id": "vsd591zbt1",
+    "status": "open",
+    "company": "Collingwood",
+    "name": "M&A Deal Team Intern – Summer 2027"
+  },
+  {
     "id": "vt4roqzr11",
     "status": "not-open",
     "company": "General Electric",
@@ -2971,9 +2977,15 @@
   },
   {
     "id": "w51gh5yp3d",
-    "status": "not-open",
+    "status": "open",
     "company": "Lendable",
-    "name": "Lendable"
+    "name": "Credit Analyst Intern (June 2027)"
+  },
+  {
+    "id": "w52dg1zyt0",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Investment Management Summer Analyst Programme - Fixed Income"
   },
   {
     "id": "w9j527id9r",
