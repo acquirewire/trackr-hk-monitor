@@ -846,6 +846,12 @@
     "name": "UK Summer Internship 2027"
   },
   {
+    "id": "eqd430ze34",
+    "status": "open",
+    "company": "Ccaventus",
+    "name": "UK Analyst Program 2028"
+  },
+  {
     "id": "ergfokxpj2",
     "status": "closed",
     "company": "PJT Partners",
@@ -2803,8 +2809,8 @@
   },
   {
     "id": "v2cq2pq6l4",
-    "status": "not-open",
-    "company": "Arena Investors",
+    "status": "open",
+    "company": "Ccaventus",
     "name": "2027 Summer Investment Analyst"
   },
   {
@@ -2917,7 +2923,7 @@
   },
   {
     "id": "vsd591zbt1",
-    "status": "open",
+    "status": "closed",
     "company": "Collingwood",
     "name": "M&A Deal Team Intern – Summer 2027"
   },
