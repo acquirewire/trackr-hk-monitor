@@ -31,7 +31,7 @@
   },
   {
     "id": "1iww3xckif",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "Private Funds Group Summer Internship (2027)"
   },
@@ -43,7 +43,7 @@
   },
   {
     "id": "1oy9mpqcc4",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "Restructuring Summer Internship (2027)"
   },
@@ -87,7 +87,7 @@
     "id": "36jiyb6sx2",
     "status": "open",
     "company": "AmplifyME",
-    "name": "Investing Simulator Challenge 2026"
+    "name": "Market & Banking Finance Accelerator"
   },
   {
     "id": "3a3cfq50td",
@@ -217,7 +217,7 @@
   },
   {
     "id": "661ba2dbyd",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Internal Audit Summer Analyst Programme"
   },
@@ -241,7 +241,7 @@
   },
   {
     "id": "8243194by3",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "Private Capital Advisory – GP Advisory Summer Internship"
   },
@@ -265,7 +265,7 @@
   },
   {
     "id": "8uesjvl1d6",
-    "status": "open",
+    "status": "closed",
     "company": "BRG",
     "name": "Intern - Economics, Disputes and Investigations"
   },
@@ -463,7 +463,7 @@
   },
   {
     "id": "b6p937hxf9",
-    "status": "open",
+    "status": "closed",
     "company": "PGIM",
     "name": "PGIM Institutional Client Group | 2027 Summer Internship"
   },
@@ -1201,7 +1201,7 @@
   },
   {
     "id": "ho7htxctdb",
-    "status": "open",
+    "status": "closed",
     "company": "UBS",
     "name": "2027 Summer Internship"
   },
@@ -1723,7 +1723,7 @@
   },
   {
     "id": "lujm1khiiq",
-    "status": "open",
+    "status": "closed",
     "company": "Squarepoint Capital",
     "name": "Equities Analyst Summer Internship Program"
   },
@@ -1777,7 +1777,7 @@
   },
   {
     "id": "med04p8tyx",
-    "status": "open",
+    "status": "closed",
     "company": "Greenhill",
     "name": "2027 Summer Internship"
   },
@@ -1944,6 +1944,12 @@
     "name": "Summer 2027 Internship"
   },
   {
+    "id": "nt4r2yrqtu",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Summer Analyst Programme - Office of the COO"
+  },
+  {
     "id": "nv019hrcqv",
     "status": "open",
     "company": "Hymans Robertson",
@@ -2035,7 +2041,7 @@
   },
   {
     "id": "ofjumq69ce",
-    "status": "open",
+    "status": "closed",
     "company": "Campbell Lutyens",
     "name": "Summer Interns 2027"
   },
@@ -2203,7 +2209,7 @@
   },
   {
     "id": "q4piys5lsr",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "Debt Advisory Summer Internship (2027)"
   },
@@ -2215,7 +2221,7 @@
   },
   {
     "id": "q87xb8gfb2",
-    "status": "open",
+    "status": "closed",
     "company": "Fenchurch Advisory",
     "name": "2027 Summer Internship Programme"
   },
@@ -2233,9 +2239,9 @@
   },
   {
     "id": "qenvwl9xvn",
-    "status": "not-open",
+    "status": "open",
     "company": "Mako Trading",
-    "name": "Summer Internship - Trading & Technology"
+    "name": "Mako Summer Internship – Trading"
   },
   {
     "id": "qf1fmy9uio",
@@ -2491,7 +2497,7 @@
   },
   {
     "id": "sjqwmquqea",
-    "status": "open",
+    "status": "closed",
     "company": "Lazard",
     "name": "2027 Summer Internship"
   },
@@ -2664,6 +2670,12 @@
     "name": "2027 Internship - Quantitative Trading"
   },
   {
+    "id": "tos8xqhhjo",
+    "status": "open",
+    "company": "Morgan Stanley",
+    "name": "2027 Summer Analyst Programme - Real Assets"
+  },
+  {
     "id": "tq7f2zzimo",
     "status": "not-open",
     "company": "Tide Insurance",
@@ -2821,7 +2833,7 @@
   },
   {
     "id": "v6k3opwunl",
-    "status": "open",
+    "status": "closed",
     "company": "Hines",
     "name": "Summer Analyst"
   },
@@ -2991,7 +3003,7 @@
     "id": "w52dg1zyt0",
     "status": "open",
     "company": "Morgan Stanley",
-    "name": "2027 Investment Management Summer Analyst Programme - Fixed Income"
+    "name": "2027 Summer Analyst Programme - Fixed Income"
   },
   {
     "id": "w9j527id9r",
@@ -3319,7 +3331,7 @@
   },
   {
     "id": "ytbxh7ub3q",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "RESA Summer Internship (2027)"
   },
@@ -3367,7 +3379,7 @@
   },
   {
     "id": "z8fh9wc9uf",
-    "status": "open",
+    "status": "closed",
     "company": "Evercore",
     "name": "M&A Advisory Summer Internship (2027)"
   },
