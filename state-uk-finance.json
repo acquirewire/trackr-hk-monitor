@@ -181,7 +181,7 @@
   },
   {
     "id": "4ux2aie1t3",
-    "status": "open",
+    "status": "closed",
     "company": "Man Group",
     "name": "Investment Risk 2027 Summer Internship"
   },
@@ -210,6 +210,12 @@
     "name": "Services, Summer Analyst, 2027"
   },
   {
+    "id": "5xehmwogqj",
+    "status": "open",
+    "company": "RBC Capital Markets",
+    "name": "2027 Summer Analyst - Quantitative Analyst"
+  },
+  {
     "id": "63al2mhfvv",
     "status": "open",
     "company": "Morgan Stanley",
@@ -223,7 +229,7 @@
   },
   {
     "id": "70ebkw3q2x",
-    "status": "open",
+    "status": "closed",
     "company": "Deutsche Bank",
     "name": "Investment Banking (UK Coverage) Internship Programme"
   },
@@ -277,7 +283,7 @@
   },
   {
     "id": "9j4bqbdtxx",
-    "status": "open",
+    "status": "closed",
     "company": "Man Group",
     "name": "Trading Summer 2027 Internship"
   },
@@ -661,7 +667,7 @@
   },
   {
     "id": "cui3ntc1zz",
-    "status": "open",
+    "status": "closed",
     "company": "Deutsche Bank",
     "name": "Fixed Income and Currencies Internship Programme 2027"
   },
