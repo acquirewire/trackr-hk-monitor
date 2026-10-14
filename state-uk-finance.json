@@ -1441,7 +1441,7 @@
   },
   {
     "id": "jpmj3ezzzo",
-    "status": "open",
+    "status": "closed",
     "company": "Howden",
     "name": "Summer Internship 2027"
   },
@@ -1645,7 +1645,7 @@
   },
   {
     "id": "lfepu2ecy4",
-    "status": "open",
+    "status": "closed",
     "company": "Howden",
     "name": "Investment Banking Summer Analyst 2027"
   },
@@ -2506,6 +2506,12 @@
     "status": "closed",
     "company": "Lazard",
     "name": "2027 Summer Internship"
+  },
+  {
+    "id": "skjb6rl2at",
+    "status": "open",
+    "company": "Jain Global",
+    "name": "Quant Research Intern (Summer 2027 – London)"
   },
   {
     "id": "slicg0m3ou",
