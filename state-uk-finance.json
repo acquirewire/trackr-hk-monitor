@@ -246,6 +246,12 @@
     "name": "2027 - Global Markets (Sales, Trading, Structuring & Research) - Summer Internship"
   },
   {
+    "id": "7qapdb0yyc",
+    "status": "open",
+    "company": "bp",
+    "name": "Summer internship - Finance & Risk"
+  },
+  {
     "id": "8243194by3",
     "status": "closed",
     "company": "Evercore",
@@ -571,9 +577,9 @@
   },
   {
     "id": "c10zc6rp2t",
-    "status": "not-open",
+    "status": "open",
     "company": "bp",
-    "name": "Summer Internship - Trading & Shipping"
+    "name": "Summer Internship - Supply, Trading & Shipping"
   },
   {
     "id": "c2zevtekgi",
@@ -736,6 +742,12 @@
     "status": "open",
     "company": "RBC Capital Markets",
     "name": "2027 Summer Analyst - Finance"
+  },
+  {
+    "id": "dmldv50lus",
+    "status": "open",
+    "company": "bp",
+    "name": "Summer Internship - Core Finance"
   },
   {
     "id": "dn9h185llq",
@@ -2911,9 +2923,9 @@
   },
   {
     "id": "vmoxgl1hqi",
-    "status": "not-open",
+    "status": "open",
     "company": "Hamilton Insurance Group",
-    "name": "Hamilton Insurance Summer Internship"
+    "name": "Summer Internship"
   },
   {
     "id": "vnejx51j82",
