@@ -249,7 +249,7 @@
     "id": "7qapdb0yyc",
     "status": "open",
     "company": "bp",
-    "name": "Summer internship - Finance & Risk"
+    "name": "Summer Internship - Finance & Risk"
   },
   {
     "id": "8243194by3",
@@ -1206,12 +1206,6 @@
     "name": "Relationship Management - Corporate and Institutional Banking - Internship"
   },
   {
-    "id": "hjccmw5by3",
-    "status": "not-open",
-    "company": "BTIG",
-    "name": "2027 UK Internship Program"
-  },
-  {
     "id": "hjv32e8dau",
     "status": "open",
     "company": "Qatalyst Partners",
@@ -1543,9 +1537,9 @@
   },
   {
     "id": "ke74fora4p",
-    "status": "not-open",
+    "status": "open",
     "company": "AAB Group",
-    "name": "2027 Internship Opportunities"
+    "name": "Intern Programme 2027"
   },
   {
     "id": "kgaz7t35du",
@@ -2278,6 +2272,12 @@
     "status": "open",
     "company": "LCP",
     "name": "nvestment Consulting - Summer Internship 2027"
+  },
+  {
+    "id": "qhsb7gxwhz",
+    "status": "open",
+    "company": "BTIG",
+    "name": "2027 Summer Internship Program"
   },
   {
     "id": "qkcvypi1yz",
