@@ -559,9 +559,9 @@
   },
   {
     "id": "byxw8zga6c",
-    "status": "not-open",
+    "status": "open",
     "company": "EY",
-    "name": "2027 Summer Internship"
+    "name": "Audit Summer Internship 2027"
   },
   {
     "id": "c0sc7rbux1",
@@ -625,7 +625,7 @@
   },
   {
     "id": "cdg1tg94ta",
-    "status": "not-open",
+    "status": "open",
     "company": "EY-Parthenon",
     "name": "Summer Internship 2027"
   },
@@ -1854,6 +1854,12 @@
     "name": "2027 Summer Analyst Programme"
   },
   {
+    "id": "mxqwwh2bch",
+    "status": "open",
+    "company": "EY",
+    "name": "Tax Summer Internship 2027"
+  },
+  {
     "id": "my8ncwbg9k",
     "status": "not-open",
     "company": "STJ Advisors",
@@ -2374,6 +2380,12 @@
     "status": "not-open",
     "company": "Capula Investment Management",
     "name": "2028 Trading and Research Summer Internship"
+  },
+  {
+    "id": "r3vme7ip84",
+    "status": "open",
+    "company": "EY",
+    "name": "Consulting Summer Internship 2027"
   },
   {
     "id": "r5noscwdgi",
@@ -2944,6 +2956,12 @@
     "status": "not-open",
     "company": "Cambridge Associates",
     "name": "Investment Summer Analyst (Intern)"
+  },
+  {
+    "id": "vqgyeeo1db",
+    "status": "open",
+    "company": "Trackr",
+    "name": "Trackr Academy - Autumn 2026"
   },
   {
     "id": "vrb6e3j24q",
