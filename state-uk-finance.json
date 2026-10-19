@@ -192,6 +192,12 @@
     "name": "Investment Specialist - Alternatives - Internship"
   },
   {
+    "id": "4xw0znsp43",
+    "status": "open",
+    "company": "ZS",
+    "name": "Strategy Insights & Planning Associate Intern - London 2027"
+  },
+  {
     "id": "5abmj8esbp",
     "status": "open",
     "company": "MUFG",
@@ -702,6 +708,12 @@
     "name": "Internship Programme (Summer 2027)"
   },
   {
+    "id": "czd9z3et76",
+    "status": "open",
+    "company": "Citi",
+    "name": "Investment Banking - CEE, Summer Analyst, 2027"
+  },
+  {
     "id": "d52bzj049j",
     "status": "closed",
     "company": "NatWest Markets",
@@ -962,7 +974,7 @@
   {
     "id": "f8uxqtk1jy",
     "status": "closed",
-    "company": "Atlanta Wealth",
+    "company": "Atlana Wealth",
     "name": "Credit Analyst Internship Asset Management"
   },
   {
@@ -1149,7 +1161,7 @@
     "id": "gzbfggud2m",
     "status": "not-open",
     "company": "ZS",
-    "name": "Strategy Insights & Planning Associate - Intern"
+    "name": "Strategy Insights & Planning Consultant Intern 2027"
   },
   {
     "id": "h09z175evi",
@@ -1687,7 +1699,7 @@
   },
   {
     "id": "llcta31b4d",
-    "status": "open",
+    "status": "closed",
     "company": "Citi",
     "name": "Global Wealth, Summer Analyst, 2027"
   },
@@ -2695,7 +2707,7 @@
   },
   {
     "id": "tjsxna6mcl",
-    "status": "open",
+    "status": "closed",
     "company": "Citi",
     "name": "Financing, Summer Analyst, 2027"
   },
@@ -2876,7 +2888,7 @@
   {
     "id": "v4sqj5xuxw",
     "status": "open",
-    "company": "Atlanta Wealth",
+    "company": "Atlana Wealth",
     "name": "Internship - Credit Analyst - Hedge Fund"
   },
   {
