@@ -12,6 +12,12 @@
     "name": "2027 Quant Researcher Summer Internship"
   },
   {
+    "id": "0nkx8pshp7",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - Distribution & Asset Rotation"
+  },
+  {
     "id": "0raizvznqa",
     "status": "open",
     "company": "J.P. Morgan",
@@ -34,6 +40,12 @@
     "status": "closed",
     "company": "Evercore",
     "name": "Private Funds Group Summer Internship (2027)"
+  },
+  {
+    "id": "1ltmadbo5g",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - Global Investment Banking"
   },
   {
     "id": "1m174f8o7e",
@@ -61,7 +73,7 @@
   },
   {
     "id": "248wrwzguu",
-    "status": "open",
+    "status": "closed",
     "company": "Royal London",
     "name": "2027 Summer Internship"
   },
@@ -400,6 +412,12 @@
     "status": "closed",
     "company": "Quantbot Technologies",
     "name": "Quantitative Researcher Internship - 2027"
+  },
+  {
+    "id": "aoedw7uv7b",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - Risk Department"
   },
   {
     "id": "aou4ksbfee",
@@ -984,6 +1002,12 @@
     "name": "Credit Analyst Internship Asset Management"
   },
   {
+    "id": "f9r5hurbal",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - Global Markets Division"
+  },
+  {
     "id": "f9z38d0inb",
     "status": "open",
     "company": "BlockTech",
@@ -1360,6 +1384,12 @@
     "status": "not-open",
     "company": "Visa",
     "name": "Consulting & Analytics Intern"
+  },
+  {
+    "id": "ipf7709q64",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - Corporate and Leveraged Finance"
   },
   {
     "id": "iphvx1ttlp",
@@ -2437,9 +2467,9 @@
   },
   {
     "id": "rca9chywkl",
-    "status": "not-open",
+    "status": "open",
     "company": "Crédit Agricole",
-    "name": "Summer Internship Programme 2027"
+    "name": "2027 Summer Internship - Coverage"
   },
   {
     "id": "rcnjysntuc",
@@ -2968,6 +2998,12 @@
     "status": "open",
     "company": "Jefferies",
     "name": "2027 Quant Masters Summer Programme"
+  },
+  {
+    "id": "vmm17b3zih",
+    "status": "open",
+    "company": "Crédit Agricole",
+    "name": "2027 Summer Internship - International Trade and Transaction Banking"
   },
   {
     "id": "vmoxgl1hqi",
