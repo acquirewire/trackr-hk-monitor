@@ -61,7 +61,7 @@
   },
   {
     "id": "1z0xxvhzcv",
-    "status": "open",
+    "status": "closed",
     "company": "Société Générale",
     "name": "Global Banking and Advisory 2027 Summer Internship Programme"
   },
@@ -145,7 +145,7 @@
   },
   {
     "id": "404pdl68bz",
-    "status": "open",
+    "status": "closed",
     "company": "TD Securities",
     "name": "2027 Summer Internship - Investment Banking"
   },
@@ -397,7 +397,7 @@
   },
   {
     "id": "afawr4vk5z",
-    "status": "open",
+    "status": "closed",
     "company": "TD Securities",
     "name": "2027 Summer Internship – Debt Capital Markets"
   },
@@ -703,7 +703,7 @@
   },
   {
     "id": "cneoio6buo",
-    "status": "open",
+    "status": "closed",
     "company": "TD Securities",
     "name": "2027 Summer Internship – Global Markets"
   },
@@ -1506,6 +1506,12 @@
     "name": "Summer Internship C&IB"
   },
   {
+    "id": "jpcvr5m1me",
+    "status": "open",
+    "company": "FTI Consulting",
+    "name": "2027 Summer Internship, Strategic Communications"
+  },
+  {
     "id": "jpmj3ezzzo",
     "status": "closed",
     "company": "Howden",
@@ -1537,7 +1543,7 @@
   },
   {
     "id": "jyb7ovz5je",
-    "status": "open",
+    "status": "closed",
     "company": "TD Securities",
     "name": "2027 Summer Internship – Corporate Banking"
   },
@@ -2251,9 +2257,9 @@
   },
   {
     "id": "ptdp3w0lho",
-    "status": "not-open",
+    "status": "open",
     "company": "FTI Consulting",
-    "name": "2027 Summer Internship"
+    "name": "2027 Summer Internship, Tax Advisory"
   },
   {
     "id": "pu71fibo0k",
@@ -2515,7 +2521,7 @@
   },
   {
     "id": "ruduif38s1",
-    "status": "open",
+    "status": "closed",
     "company": "Société Générale",
     "name": "Global Markets 2027 Summer Internship Programme"
   },
@@ -3037,7 +3043,7 @@
   },
   {
     "id": "vqgyeeo1db",
-    "status": "open",
+    "status": "closed",
     "company": "Trackr",
     "name": "Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]"
   },
@@ -3210,6 +3216,12 @@
     "name": "Summer Trading Internship"
   },
   {
+    "id": "x6gdvl83lo",
+    "status": "open",
+    "company": "FTI Consulting",
+    "name": "2027 Summer Internship, TMT Business Transformation, Corporate Finance"
+  },
+  {
     "id": "x6yry9961v",
     "status": "not-open",
     "company": "Soros Fund Management",
@@ -3298,6 +3310,12 @@
     "status": "open",
     "company": "Macquarie Group",
     "name": "2027 Risk Management Group Summer Internship Programme"
+  },
+  {
+    "id": "xojuu49l19",
+    "status": "open",
+    "company": "FTI Consulting",
+    "name": "2027 Summer Internship, Economic & Financial Consulting"
   },
   {
     "id": "xol1zhqfwc",
