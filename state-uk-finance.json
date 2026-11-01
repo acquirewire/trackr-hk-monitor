@@ -36,6 +36,12 @@
     "name": "2027 - Risk - Summer Internship"
   },
   {
+    "id": "1egyi9umd5",
+    "status": "open",
+    "company": "Institute of Fiscal Studies",
+    "name": "Economic Research Summer Intern"
+  },
+  {
     "id": "1iww3xckif",
     "status": "closed",
     "company": "Evercore",
@@ -88,6 +94,12 @@
     "status": "open",
     "company": "Charles River Associates",
     "name": "2027 Policy Consulting Intern - Life Sciences"
+  },
+  {
+    "id": "2iwxdyx97d",
+    "status": "open",
+    "company": "TP ICAP",
+    "name": "Global Broking Summer Internship 2027"
   },
   {
     "id": "2z2l0yyhj5",
@@ -258,6 +270,12 @@
     "name": "2027 Internal Audit Summer Analyst Programme"
   },
   {
+    "id": "6z9ln5e52v",
+    "status": "open",
+    "company": "TP ICAP",
+    "name": "Compliance Summer Internship 2027"
+  },
+  {
     "id": "70ebkw3q2x",
     "status": "closed",
     "company": "Deutsche Bank",
@@ -277,7 +295,7 @@
   },
   {
     "id": "7qapdb0yyc",
-    "status": "open",
+    "status": "closed",
     "company": "bp",
     "name": "Summer Internship - Finance & Risk"
   },
@@ -439,9 +457,9 @@
   },
   {
     "id": "arqa3vd0rc",
-    "status": "not-open",
+    "status": "open",
     "company": "TP ICAP",
-    "name": "Summer Internship 2027"
+    "name": "Internal Audit Summer Internship 2027"
   },
   {
     "id": "asqixbxhe9",
@@ -451,7 +469,7 @@
   },
   {
     "id": "at7ppeflvq",
-    "status": "open",
+    "status": "closed",
     "company": "Macquarie Group",
     "name": "2027 Asset Management Summer Internship Programme"
   },
@@ -493,9 +511,9 @@
   },
   {
     "id": "azo61hhi68",
-    "status": "not-open",
+    "status": "open",
     "company": "Liquidnet",
-    "name": "Summer Internship 2027"
+    "name": "Equities Sales and Trading Summer Internship 2027"
   },
   {
     "id": "b5h2vlmj7b",
@@ -571,7 +589,7 @@
   },
   {
     "id": "bs8nsgxgt2",
-    "status": "open",
+    "status": "closed",
     "company": "AIG",
     "name": "2027 Summer Internship"
   },
@@ -619,7 +637,7 @@
   },
   {
     "id": "c10zc6rp2t",
-    "status": "open",
+    "status": "closed",
     "company": "bp",
     "name": "Summer Internship - Supply, Trading & Shipping"
   },
@@ -745,7 +763,7 @@
   },
   {
     "id": "d52bzj049j",
-    "status": "closed",
+    "status": "open",
     "company": "NatWest Markets",
     "name": "NatWest Markets - Quantitative Analytics - Internship"
   },
@@ -793,7 +811,7 @@
   },
   {
     "id": "dmldv50lus",
-    "status": "open",
+    "status": "closed",
     "company": "bp",
     "name": "Summer Internship - Core Finance"
   },
@@ -1314,6 +1332,12 @@
     "name": "Summer 2027 Asset Management Intern"
   },
   {
+    "id": "iaxmnndvji",
+    "status": "not-open",
+    "company": "Tudor Group",
+    "name": "Summer Internship 2027"
+  },
+  {
     "id": "ibe2ewlars",
     "status": "closed",
     "company": "Affinius Capital",
@@ -1387,9 +1411,9 @@
   },
   {
     "id": "ip4c0gkom2",
-    "status": "not-open",
+    "status": "closed",
     "company": "Visa",
-    "name": "Consulting & Analytics Intern"
+    "name": "Strategy & Commercial Internship"
   },
   {
     "id": "ipf7709q64",
@@ -1446,6 +1470,12 @@
     "name": "Summer Student - 2027 intake"
   },
   {
+    "id": "j77by9ot0m",
+    "status": "open",
+    "company": "PA Consulting",
+    "name": "2027 Summer Internship - Consulting Programme"
+  },
+  {
     "id": "j9bml0081h",
     "status": "open",
     "company": "Jump Trading",
@@ -1471,7 +1501,7 @@
   },
   {
     "id": "jixl7oc13x",
-    "status": "open",
+    "status": "closed",
     "company": "Hymans Robertson",
     "name": "Actuarial Consulting & Analytics: Summer Internship Programme"
   },
@@ -1992,6 +2022,12 @@
     "name": "Finance Intern 2027"
   },
   {
+    "id": "nhgwemeg2i",
+    "status": "open",
+    "company": "Graviton",
+    "name": "Quantitative Researcher - 2027 Summer Internship"
+  },
+  {
     "id": "niw3zsn28z",
     "status": "not-open",
     "company": "Gartner",
@@ -2035,7 +2071,7 @@
   },
   {
     "id": "nv019hrcqv",
-    "status": "open",
+    "status": "closed",
     "company": "Hymans Robertson",
     "name": "Pensions Governance & Investment Consulting: Summer Internship Programme"
   },
@@ -2068,6 +2104,12 @@
     "status": "open",
     "company": "ICE",
     "name": "Summer Internship Program 2027"
+  },
+  {
+    "id": "o24h39ciou",
+    "status": "open",
+    "company": "Charles River Associates",
+    "name": "2027 Summer Intern (Antitrust & Competition Economics Practice)"
   },
   {
     "id": "o4ewmv15wn",
@@ -2190,10 +2232,10 @@
     "name": "Investment Analyst Internship 2026-2027"
   },
   {
-    "id": "oy440jb8ep",
-    "status": "not-open",
-    "company": "Javelin Global Commodities",
-    "name": "Summer Internship: Commodities Trading"
+    "id": "oz17xyntod",
+    "status": "open",
+    "company": "TP ICAP",
+    "name": "Risk Summer Internship 2027"
   },
   {
     "id": "p2g3e1z311",
@@ -2311,9 +2353,9 @@
   },
   {
     "id": "q704jptfc9",
-    "status": "not-open",
+    "status": "open",
     "company": "Lockton",
-    "name": "Insurance Summer Intern"
+    "name": "2027 Insurance Summer Internship"
   },
   {
     "id": "q87xb8gfb2",
@@ -2335,7 +2377,7 @@
   },
   {
     "id": "qenvwl9xvn",
-    "status": "open",
+    "status": "closed",
     "company": "Mako Trading",
     "name": "Mako Summer Internship – Trading"
   },
@@ -2659,7 +2701,7 @@
   },
   {
     "id": "sqaon0ffm5",
-    "status": "open",
+    "status": "closed",
     "company": "KR8 Advisory",
     "name": "Restructuring Advisory Intern"
   },
@@ -2809,7 +2851,7 @@
   },
   {
     "id": "trx5j32l37",
-    "status": "open",
+    "status": "closed",
     "company": "BDO Global",
     "name": "2027 Actuarial Summer Internship Programme"
   },
@@ -3301,7 +3343,7 @@
   },
   {
     "id": "xjcbze30n9",
-    "status": "open",
+    "status": "closed",
     "company": "Schroders",
     "name": "2027 Internship Programme"
   },
@@ -3388,6 +3430,12 @@
     "status": "not-open",
     "company": "Cboe Global Markets",
     "name": "Quantitative Analytics Intern"
+  },
+  {
+    "id": "y1l5ey7ekq",
+    "status": "open",
+    "company": "Liquidnet",
+    "name": "Fixed Income Sales Summer Internship 2027"
   },
   {
     "id": "y22habrfi1",
@@ -3481,9 +3529,9 @@
   },
   {
     "id": "yt95ur089k",
-    "status": "not-open",
+    "status": "open",
     "company": "EQT",
-    "name": "Summer Analyst Programme – EQT Real Estate"
+    "name": "Summer Analyst Programme 2027 – Real Estate"
   },
   {
     "id": "ytbxh7ub3q",
