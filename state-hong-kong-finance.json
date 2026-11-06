@@ -1,7 +1,7 @@
 [
   {
     "id": "0z8hmkenwi",
-    "status": "open",
+    "status": "closed",
     "company": "Millennium Management",
     "name": "2027 Non-Investment Summer Intern"
   },
@@ -13,7 +13,7 @@
   },
   {
     "id": "2fvw0ash8c",
-    "status": "open",
+    "status": "closed",
     "company": "Polymer Capital",
     "name": "2027 Summer Intern, Compliance"
   },
@@ -139,7 +139,7 @@
   },
   {
     "id": "cmyrkv998l",
-    "status": "open",
+    "status": "closed",
     "company": "Goldman Sachs",
     "name": "2027 Summer Analyst"
   },
@@ -162,6 +162,12 @@
     "name": "2027 Summer Internship"
   },
   {
+    "id": "de8yufe5om",
+    "status": "open",
+    "company": "Point72",
+    "name": "2027 Trader Summer Intern"
+  },
+  {
     "id": "e1j7xkfh6h",
     "status": "not-open",
     "company": "AlphaSights",
@@ -169,7 +175,7 @@
   },
   {
     "id": "e5bfkjz1kh",
-    "status": "open",
+    "status": "closed",
     "company": "Polymer Capital",
     "name": "2027 Summer Intern, Investment"
   },
@@ -181,7 +187,7 @@
   },
   {
     "id": "eoj5lyqe3a",
-    "status": "open",
+    "status": "closed",
     "company": "Société Générale",
     "name": "Equity Research Intern (Summer 2027)"
   },
@@ -247,9 +253,9 @@
   },
   {
     "id": "if2uyb9945",
-    "status": "not-open",
+    "status": "open",
     "company": "ExodusPoint",
-    "name": "Fixed Income Internship"
+    "name": "Internship - RV Analyst"
   },
   {
     "id": "iiru386x3s",
@@ -343,7 +349,7 @@
   },
   {
     "id": "lkbqjutf8o",
-    "status": "open",
+    "status": "closed",
     "company": "Polymer Capital",
     "name": "2027 Summer Intern, Middle Office"
   },
@@ -511,13 +517,13 @@
   },
   {
     "id": "simlc20qjt",
-    "status": "open",
+    "status": "closed",
     "company": "Polymer Capital",
     "name": "2027 Summer Intern, Finance"
   },
   {
     "id": "sl3mmyplcm",
-    "status": "open",
+    "status": "closed",
     "company": "Natixis",
     "name": "2027 Investment Banking Summer Internship"
   },

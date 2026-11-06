@@ -270,6 +270,12 @@
     "name": "2027 Internal Audit Summer Analyst Programme"
   },
   {
+    "id": "6xgkcen2h8",
+    "status": "open",
+    "company": "M&G",
+    "name": "Asset Management: Equities Internship"
+  },
+  {
     "id": "6z9ln5e52v",
     "status": "open",
     "company": "TP ICAP",
@@ -280,6 +286,12 @@
     "status": "closed",
     "company": "Deutsche Bank",
     "name": "Investment Banking (UK Coverage) Internship Programme"
+  },
+  {
+    "id": "74et96nfyb",
+    "status": "open",
+    "company": "Lloyds Banking Group",
+    "name": "Consumer Internship"
   },
   {
     "id": "7emdlydj15",
@@ -523,9 +535,9 @@
   },
   {
     "id": "b5izv0o14h",
-    "status": "not-open",
+    "status": "open",
     "company": "M&G",
-    "name": "Summer Internship"
+    "name": "Finance Internship"
   },
   {
     "id": "b685b4st7k",
@@ -1081,9 +1093,9 @@
   },
   {
     "id": "fiopvw973y",
-    "status": "not-open",
+    "status": "open",
     "company": "Lloyds Banking Group",
-    "name": "Summer Internship 2027"
+    "name": "Actuarial Intern"
   },
   {
     "id": "fkdve7jxf5",
@@ -1120,6 +1132,12 @@
     "status": "open",
     "company": "Aquatic Capital Management",
     "name": "Quantitative Researcher, Intern (Summer 2027)"
+  },
+  {
+    "id": "ftem3o41zb",
+    "status": "open",
+    "company": "Lloyds Banking Group",
+    "name": "Corporate Banking & Markets Internship"
   },
   {
     "id": "fv4i0rsutg",
@@ -1531,9 +1549,9 @@
   },
   {
     "id": "jp01p6e92w",
-    "status": "not-open",
+    "status": "closed",
     "company": "BBVA",
-    "name": "Summer Internship C&IB"
+    "name": "Summer Internship – Corporate & Investment Banking"
   },
   {
     "id": "jpcvr5m1me",
@@ -1606,6 +1624,12 @@
     "status": "not-open",
     "company": "EBRD",
     "name": "Summer Intern, Economics"
+  },
+  {
+    "id": "k5bi599khv",
+    "status": "open",
+    "company": "Lloyds Banking Group",
+    "name": "Business & Commercial Banking Internship"
   },
   {
     "id": "k8asf1h97h",
@@ -1957,7 +1981,7 @@
   },
   {
     "id": "my8ncwbg9k",
-    "status": "not-open",
+    "status": "open",
     "company": "STJ Advisors",
     "name": "Summer Internship Program 2027"
   },
@@ -1972,6 +1996,12 @@
     "status": "not-open",
     "company": "ExodusPoint",
     "name": "Quant Internship 2027"
+  },
+  {
+    "id": "n5kh27fxos",
+    "status": "open",
+    "company": "M&G",
+    "name": "Asset Management: COO Internship"
   },
   {
     "id": "n7h54udm76",
@@ -2100,6 +2130,12 @@
     "name": "Quantitative Trading Internship: Summer 2027"
   },
   {
+    "id": "o11ofpk9ji",
+    "status": "open",
+    "company": "M&G",
+    "name": "Asset Management: Private Markets Internship"
+  },
+  {
     "id": "o1vkdelshm",
     "status": "open",
     "company": "ICE",
@@ -2140,6 +2176,12 @@
     "status": "not-open",
     "company": "Pharus",
     "name": "Investment Banking Summer Analyst - 2027"
+  },
+  {
+    "id": "obbqudciiw",
+    "status": "open",
+    "company": "M&G",
+    "name": "Asset Management: Client Group & Product Internship"
   },
   {
     "id": "obqddd0qpj",
@@ -2346,6 +2388,12 @@
     "name": "Quantitative Reseacher - Intern"
   },
   {
+    "id": "q1kycus4zg",
+    "status": "open",
+    "company": "Hasbro",
+    "name": "2027 Summer Internships - Finance"
+  },
+  {
     "id": "q4piys5lsr",
     "status": "closed",
     "company": "Evercore",
@@ -2544,6 +2592,12 @@
     "name": "2027 Summer Intern - Product Analyst"
   },
   {
+    "id": "rev290n0ei",
+    "status": "open",
+    "company": "M&G",
+    "name": "Asset Management: Public Fixed Income Internship"
+  },
+  {
     "id": "rfey4f7mgn",
     "status": "not-open",
     "company": "Allied World",
@@ -2557,9 +2611,9 @@
   },
   {
     "id": "rn0va6jde6",
-    "status": "not-open",
+    "status": "closed",
     "company": "Marsh McLennan",
-    "name": "Summer Internship 2027"
+    "name": "Global Investments 2027 Summer Internship Programme"
   },
   {
     "id": "rsz7tz9ngy",
@@ -2815,9 +2869,9 @@
   },
   {
     "id": "tjm45wt1ka",
-    "status": "not-open",
+    "status": "open",
     "company": "Arch Insurance International",
-    "name": "2027 Summer Internship"
+    "name": "Actuarial Summer Internship - 2027"
   },
   {
     "id": "tjsxna6mcl",
@@ -2857,7 +2911,7 @@
   },
   {
     "id": "tsta2emevr",
-    "status": "not-open",
+    "status": "open",
     "company": "Financial Conduct Authority",
     "name": "2027 Summer Internship"
   },
@@ -2887,7 +2941,7 @@
   },
   {
     "id": "twwwd5dcrz",
-    "status": "not-open",
+    "status": "open",
     "company": "S&W",
     "name": "Internship Programme - July 2027"
   },
@@ -3100,12 +3154,6 @@
     "status": "open",
     "company": "Cambridge Associates",
     "name": "Investment Summer Analyst (Intern)"
-  },
-  {
-    "id": "vqgyeeo1db",
-    "status": "closed",
-    "company": "Trackr",
-    "name": "Trackr Academy - Autumn 2026 [FINAL REGISTRATIONS]"
   },
   {
     "id": "vrb6e3j24q",
@@ -3505,9 +3553,9 @@
   },
   {
     "id": "ymu5cwti74",
-    "status": "not-open",
+    "status": "open",
     "company": "AlphaSights",
-    "name": "Insight Days, Client Service"
+    "name": "Insight Days, Client Service, 2027"
   },
   {
     "id": "ynef8w3hac",
@@ -3646,6 +3694,12 @@
     "status": "not-open",
     "company": "Arbuthnot Latham",
     "name": "Internship 2027"
+  },
+  {
+    "id": "zuu5rk2ffx",
+    "status": "open",
+    "company": "Hasbro",
+    "name": "2027 Summer Internships - Commercial"
   },
   {
     "id": "zvz2wbd9sk",
