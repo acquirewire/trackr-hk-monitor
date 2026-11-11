@@ -31,7 +31,7 @@
   },
   {
     "id": "1d1kwl3s80",
-    "status": "open",
+    "status": "closed",
     "company": "J.P. Morgan",
     "name": "2027 - Risk - Summer Internship"
   },
@@ -76,6 +76,12 @@
     "status": "open",
     "company": "Jefferies",
     "name": "2027 Private Fund Advisory Summer Internship Programme"
+  },
+  {
+    "id": "229lzrtr6e",
+    "status": "closed",
+    "company": "IBM",
+    "name": "Strategy & Business Transformation Intern"
   },
   {
     "id": "248wrwzguu",
@@ -139,7 +145,7 @@
   },
   {
     "id": "3u0g1uef0a",
-    "status": "open",
+    "status": "closed",
     "company": "J.P. Morgan",
     "name": "2027 - Corporate Functions - Summer Internship"
   },
@@ -175,7 +181,7 @@
   },
   {
     "id": "4b5c8ysadv",
-    "status": "open",
+    "status": "closed",
     "company": "Macquarie Group",
     "name": "2027 Macquarie Capital Summer Internship Programme"
   },
@@ -211,7 +217,7 @@
   },
   {
     "id": "4mda3mztsq",
-    "status": "open",
+    "status": "closed",
     "company": "SSE",
     "name": "Finance Summer Placement"
   },
@@ -511,7 +517,7 @@
   },
   {
     "id": "axuzqzfnhg",
-    "status": "open",
+    "status": "closed",
     "company": "Verition Fund Management",
     "name": "2027 Investment Internship"
   },
@@ -523,13 +529,13 @@
   },
   {
     "id": "azo61hhi68",
-    "status": "open",
+    "status": "closed",
     "company": "Liquidnet",
     "name": "Equities Sales and Trading Summer Internship 2027"
   },
   {
     "id": "b5h2vlmj7b",
-    "status": "open",
+    "status": "closed",
     "company": "Optiver",
     "name": "Quantitative Trading Internship (2027 Start)"
   },
@@ -625,7 +631,7 @@
   },
   {
     "id": "bxt4jvkxmz",
-    "status": "open",
+    "status": "closed",
     "company": "RBC Capital Markets",
     "name": "2027 Summer Analyst - Real Estate Capital Partners"
   },
@@ -757,7 +763,7 @@
   },
   {
     "id": "cxamkqkpx8",
-    "status": "open",
+    "status": "closed",
     "company": "Centerview Partners",
     "name": "2027 Summer Internship Programme"
   },
@@ -769,7 +775,7 @@
   },
   {
     "id": "czd9z3et76",
-    "status": "open",
+    "status": "closed",
     "company": "Citi",
     "name": "Investment Banking - CEE, Summer Analyst, 2027"
   },
@@ -781,7 +787,7 @@
   },
   {
     "id": "d54muvlsjk",
-    "status": "open",
+    "status": "closed",
     "company": "BNY Mellon",
     "name": "2027 Summer Internship Program - Non-Investments"
   },
@@ -1027,7 +1033,7 @@
   },
   {
     "id": "f6gsalmo9g",
-    "status": "open",
+    "status": "closed",
     "company": "RBC Capital Markets",
     "name": "2027 Summer Analyst - Global Investment Banking"
   },
@@ -1177,7 +1183,7 @@
   },
   {
     "id": "ge9h7i6nnq",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Finance Summer Analyst Programme"
   },
@@ -1321,7 +1327,7 @@
   },
   {
     "id": "hxbifu24pu",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Sales & Trading Summer Analyst Programme"
   },
@@ -1465,7 +1471,7 @@
   },
   {
     "id": "iumphbd6bl",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Global Capital Markets Summer Analyst Programme"
   },
@@ -1489,7 +1495,7 @@
   },
   {
     "id": "j77by9ot0m",
-    "status": "open",
+    "status": "closed",
     "company": "PA Consulting",
     "name": "2027 Summer Internship - Consulting Programme"
   },
@@ -1759,7 +1765,7 @@
   },
   {
     "id": "lbrom5xar1",
-    "status": "open",
+    "status": "closed",
     "company": "J.P. Morgan",
     "name": "2027 Global Corporate Banking Analyst Program - Summer Internship"
   },
@@ -1825,7 +1831,7 @@
   },
   {
     "id": "lpskj0okz1",
-    "status": "open",
+    "status": "closed",
     "company": "Chicago Trading Company",
     "name": "Quant Trading Internship - Summer 2027"
   },
@@ -2185,7 +2191,7 @@
   },
   {
     "id": "obqddd0qpj",
-    "status": "open",
+    "status": "closed",
     "company": "J.P. Morgan",
     "name": "2027 Global Investment Banking Analyst Program - Summer Internship"
   },
@@ -2275,7 +2281,7 @@
   },
   {
     "id": "oz17xyntod",
-    "status": "open",
+    "status": "closed",
     "company": "TP ICAP",
     "name": "Risk Summer Internship 2027"
   },
@@ -2497,7 +2503,7 @@
   },
   {
     "id": "qtdo9uqi9e",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Investment Banking Summer Analyst Programme"
   },
@@ -2803,9 +2809,9 @@
   },
   {
     "id": "t2va5huukl",
-    "status": "not-open",
+    "status": "open",
     "company": "Aspect Capital",
-    "name": "Quantitative Research Summer Intern 2027"
+    "name": "Short Term Research Intern"
   },
   {
     "id": "t2yo942imr",
@@ -2953,7 +2959,7 @@
   },
   {
     "id": "u8ql9ljyct",
-    "status": "open",
+    "status": "closed",
     "company": "RBC Capital Markets",
     "name": "2027 Summer Analyst - Global Markets"
   },
@@ -3163,7 +3169,7 @@
   },
   {
     "id": "vscaes1pb4",
-    "status": "closed",
+    "status": "open",
     "company": "Maven Securities",
     "name": "Trader Summer Internship 2027"
   },
@@ -3253,7 +3259,7 @@
   },
   {
     "id": "wcctkp084l",
-    "status": "open",
+    "status": "closed",
     "company": "Millennium Management",
     "name": "2027 Non-Investment Summer Intern"
   },
@@ -3474,6 +3480,12 @@
     "name": "2027 Summer Analyst Programme: Internal Audit"
   },
   {
+    "id": "xy6p614fvk",
+    "status": "open",
+    "company": "M&G",
+    "name": "Risk & Compliance Internship"
+  },
+  {
     "id": "xyn3tm5ytg",
     "status": "not-open",
     "company": "Cboe Global Markets",
@@ -3553,7 +3565,7 @@
   },
   {
     "id": "ymu5cwti74",
-    "status": "open",
+    "status": "closed",
     "company": "AlphaSights",
     "name": "Insight Days, Client Service, 2027"
   },
@@ -3577,7 +3589,7 @@
   },
   {
     "id": "yt95ur089k",
-    "status": "open",
+    "status": "closed",
     "company": "EQT",
     "name": "Summer Analyst Programme 2027 – Real Estate"
   },
