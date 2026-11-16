@@ -366,6 +366,12 @@
     "name": "Summer 2027: Investment Team Summer Analyst"
   },
   {
+    "id": "9lnktlwn9h",
+    "status": "not-open",
+    "company": "St James's Place",
+    "name": "2027 Investment Internship Programme"
+  },
+  {
     "id": "9xqxksw2z5",
     "status": "open",
     "company": "Standard Bank",
@@ -1243,9 +1249,9 @@
   },
   {
     "id": "h09z175evi",
-    "status": "not-open",
+    "status": "open",
     "company": "Bank of England",
-    "name": "Penultimate Year Internship Programme"
+    "name": "2027 Summer Internship Programme"
   },
   {
     "id": "h141nmytwp",
@@ -1878,12 +1884,6 @@
     "name": "Spring into Quant Finance 2027"
   },
   {
-    "id": "m175wbwe1c",
-    "status": "not-open",
-    "company": "Bastion Trading",
-    "name": "Trading & Quant Summer Internship 2027"
-  },
-  {
     "id": "m2eww31v2k",
     "status": "open",
     "company": "Goldman Sachs",
@@ -1987,7 +1987,7 @@
   },
   {
     "id": "my8ncwbg9k",
-    "status": "open",
+    "status": "closed",
     "company": "STJ Advisors",
     "name": "Summer Internship Program 2027"
   },
@@ -2785,9 +2785,9 @@
   },
   {
     "id": "svx4anr7pi",
-    "status": "not-open",
+    "status": "open",
     "company": "BMLL",
-    "name": "Junior Quantitative Analyst Internship - Summer 2027"
+    "name": "Internship - Junior Quantitative Analyst"
   },
   {
     "id": "sy130gmptk",
@@ -3277,9 +3277,9 @@
   },
   {
     "id": "we02sc45ng",
-    "status": "not-open",
+    "status": "open",
     "company": "MFS",
-    "name": "Equity Research Analyst Intern"
+    "name": "Summer 2027 Global Client Service Intern"
   },
   {
     "id": "wejolky8ln",
