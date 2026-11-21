@@ -55,7 +55,7 @@
   },
   {
     "id": "6zv33ddm38",
-    "status": "open",
+    "status": "closed",
     "company": "DRW",
     "name": "Quantitative Trading Analyst Intern"
   },
@@ -109,7 +109,7 @@
   },
   {
     "id": "betppijr9h",
-    "status": "open",
+    "status": "closed",
     "company": "Jefferies",
     "name": "2027 Summer Analyst Program"
   },
@@ -294,6 +294,12 @@
     "name": "[Programme Name TBC]"
   },
   {
+    "id": "jodthah4oq",
+    "status": "open",
+    "company": "Schonfeld",
+    "name": "2027 Equity Middle Office Intern"
+  },
+  {
     "id": "jpetms81sw",
     "status": "closed",
     "company": "AlphaSights",
@@ -315,7 +321,7 @@
     "id": "k3r5w2z91n",
     "status": "closed",
     "company": "Caldwell Bray Securities",
-    "name": "2027 Summer Internship"
+    "name": "Quantitative Researcher Internship - 2027"
   },
   {
     "id": "k9kzhtt3xb",
@@ -403,7 +409,7 @@
   },
   {
     "id": "nnt0cjh5e6",
-    "status": "open",
+    "status": "closed",
     "company": "Orbis",
     "name": "Summer Investment Analyst"
   },
@@ -612,8 +618,14 @@
     "name": "Intern"
   },
   {
+    "id": "xxw9gare85",
+    "status": "open",
+    "company": "Marshall Wace",
+    "name": "Investment and Trading Intern - Treasury"
+  },
+  {
     "id": "ycyfbtrmuf",
-    "status": "closed",
+    "status": "open",
     "company": "Balyasny Asset Management",
     "name": "Quantitative Researcher (Summer Internship)"
   },

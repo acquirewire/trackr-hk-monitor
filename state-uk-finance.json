@@ -13,7 +13,7 @@
   },
   {
     "id": "0nkx8pshp7",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Distribution & Asset Rotation"
   },
@@ -49,7 +49,7 @@
   },
   {
     "id": "1ltmadbo5g",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Global Investment Banking"
   },
@@ -97,13 +97,13 @@
   },
   {
     "id": "2hjll92was",
-    "status": "open",
+    "status": "closed",
     "company": "Charles River Associates",
     "name": "2027 Policy Consulting Intern - Life Sciences"
   },
   {
     "id": "2iwxdyx97d",
-    "status": "open",
+    "status": "closed",
     "company": "TP ICAP",
     "name": "Global Broking Summer Internship 2027"
   },
@@ -175,7 +175,7 @@
   },
   {
     "id": "4am31chlk8",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Non-Financial Risk Summer Analyst Programme"
   },
@@ -253,7 +253,7 @@
   },
   {
     "id": "5u6mrjk4my",
-    "status": "open",
+    "status": "closed",
     "company": "Citi",
     "name": "Services, Summer Analyst, 2027"
   },
@@ -283,7 +283,7 @@
   },
   {
     "id": "6z9ln5e52v",
-    "status": "open",
+    "status": "closed",
     "company": "TP ICAP",
     "name": "Compliance Summer Internship 2027"
   },
@@ -346,6 +346,12 @@
     "status": "closed",
     "company": "BRG",
     "name": "Intern - Economics, Disputes and Investigations"
+  },
+  {
+    "id": "971tbvetgg",
+    "status": "open",
+    "company": "Control Risks",
+    "name": "Summer 2027 Consulting Intern Programme"
   },
   {
     "id": "9bsigfoqgo",
@@ -463,7 +469,7 @@
   },
   {
     "id": "aoedw7uv7b",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Risk Department"
   },
@@ -481,7 +487,7 @@
   },
   {
     "id": "arqa3vd0rc",
-    "status": "open",
+    "status": "closed",
     "company": "TP ICAP",
     "name": "Internal Audit Summer Internship 2027"
   },
@@ -787,7 +793,7 @@
   },
   {
     "id": "d52bzj049j",
-    "status": "open",
+    "status": "closed",
     "company": "NatWest Markets",
     "name": "NatWest Markets - Quantitative Analytics - Internship"
   },
@@ -805,7 +811,7 @@
   },
   {
     "id": "db6y4foxhc",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Operations Summer Analyst Programme"
   },
@@ -1051,7 +1057,7 @@
   },
   {
     "id": "f9r5hurbal",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Global Markets Division"
   },
@@ -1381,7 +1387,7 @@
   },
   {
     "id": "icy6ukpknj",
-    "status": "open",
+    "status": "closed",
     "company": "Standard Chartered",
     "name": "Internship Programme 2027"
   },
@@ -1447,7 +1453,7 @@
   },
   {
     "id": "ipf7709q64",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Corporate and Leveraged Finance"
   },
@@ -2059,7 +2065,7 @@
   },
   {
     "id": "nhgwemeg2i",
-    "status": "open",
+    "status": "closed",
     "company": "Graviton",
     "name": "Quantitative Researcher - 2027 Summer Internship"
   },
@@ -2143,7 +2149,7 @@
   },
   {
     "id": "o1vkdelshm",
-    "status": "open",
+    "status": "closed",
     "company": "ICE",
     "name": "Summer Internship Program 2027"
   },
@@ -2581,7 +2587,7 @@
   },
   {
     "id": "rca9chywkl",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - Coverage"
   },
@@ -3133,7 +3139,7 @@
   },
   {
     "id": "vmm17b3zih",
-    "status": "open",
+    "status": "closed",
     "company": "Crédit Agricole",
     "name": "2027 Summer Internship - International Trade and Transaction Banking"
   },
@@ -3157,7 +3163,7 @@
   },
   {
     "id": "voyqktczs5",
-    "status": "open",
+    "status": "closed",
     "company": "Cambridge Associates",
     "name": "Investment Summer Analyst (Intern)"
   },
@@ -3241,7 +3247,7 @@
   },
   {
     "id": "w52dg1zyt0",
-    "status": "open",
+    "status": "closed",
     "company": "Morgan Stanley",
     "name": "2027 Summer Analyst Programme - Fixed Income"
   },
@@ -3277,7 +3283,7 @@
   },
   {
     "id": "we02sc45ng",
-    "status": "open",
+    "status": "closed",
     "company": "MFS",
     "name": "Summer 2027 Global Client Service Intern"
   },
@@ -3493,7 +3499,7 @@
   },
   {
     "id": "y1l5ey7ekq",
-    "status": "open",
+    "status": "closed",
     "company": "Liquidnet",
     "name": "Fixed Income Sales Summer Internship 2027"
   },
@@ -3529,7 +3535,7 @@
   },
   {
     "id": "yayxb49x20",
-    "status": "open",
+    "status": "closed",
     "company": "Charles River Associates",
     "name": "2027 Strategy Consulting Intern - Life Sciences"
   },
@@ -3565,7 +3571,7 @@
   },
   {
     "id": "ymu5cwti74",
-    "status": "closed",
+    "status": "open",
     "company": "AlphaSights",
     "name": "Insight Days, Client Service, 2027"
   },
@@ -3685,7 +3691,7 @@
   },
   {
     "id": "zo14nc37p9",
-    "status": "open",
+    "status": "closed",
     "company": "Citadel Securities",
     "name": "Trading & Quant Internship 2027"
   },
