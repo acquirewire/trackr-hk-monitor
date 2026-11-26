@@ -397,7 +397,7 @@
   },
   {
     "id": "a4f0hws2s1",
-    "status": "not-open",
+    "status": "open",
     "company": "AXA",
     "name": "2027 Summer Internship"
   },
@@ -793,7 +793,7 @@
   },
   {
     "id": "d52bzj049j",
-    "status": "closed",
+    "status": "open",
     "company": "NatWest Markets",
     "name": "NatWest Markets - Quantitative Analytics - Internship"
   },
@@ -997,7 +997,7 @@
   },
   {
     "id": "etpr8cn8rs",
-    "status": "not-open",
+    "status": "open",
     "company": "RSM",
     "name": "Internship 2027"
   },
@@ -1357,7 +1357,7 @@
   },
   {
     "id": "i6vyr5sh3x",
-    "status": "not-open",
+    "status": "open",
     "company": "Nationwide",
     "name": "2027 Summer Internship"
   },
@@ -1554,6 +1554,12 @@
     "name": "Summer Intern, Corporate Finance"
   },
   {
+    "id": "jljb00i9sx",
+    "status": "closed",
+    "company": "BMO Capital Markets",
+    "name": "Global Markets Summer Analyst Program"
+  },
+  {
     "id": "jmomi39y30",
     "status": "not-open",
     "company": "Westgrove",
@@ -1711,7 +1717,7 @@
   },
   {
     "id": "kmpvb19l8n",
-    "status": "not-open",
+    "status": "open",
     "company": "First Wealth",
     "name": "Summer Internship 2027"
   },
@@ -3379,9 +3385,9 @@
   },
   {
     "id": "xefxdf6yog",
-    "status": "not-open",
+    "status": "open",
     "company": "Severn Trent",
-    "name": "Finance Summer Placement"
+    "name": "Summer Placement - Finance"
   },
   {
     "id": "xetcazb7wg",
@@ -3655,7 +3661,7 @@
   },
   {
     "id": "zbyismcu8o",
-    "status": "not-open",
+    "status": "open",
     "company": "Plural Strategy",
     "name": "Strategy Consulting Intern"
   },
@@ -3675,7 +3681,7 @@
     "id": "zld4199meu",
     "status": "closed",
     "company": "BMO Capital Markets",
-    "name": "2027 Investment Banking Summer Intern"
+    "name": "Investment Banking Summer Intern"
   },
   {
     "id": "zm17cu7kxl",

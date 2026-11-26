@@ -54,6 +54,12 @@
     "name": "Summer Internship - Finance"
   },
   {
+    "id": "6lu31sruv5",
+    "status": "open",
+    "company": "DWS",
+    "name": "2027 Summer Internship - Client Coverage"
+  },
+  {
     "id": "6zv33ddm38",
     "status": "closed",
     "company": "DRW",
@@ -427,7 +433,7 @@
   },
   {
     "id": "otcncc9o5s",
-    "status": "open",
+    "status": "closed",
     "company": "Barclays",
     "name": "Summer Internship Programme 2027"
   },
